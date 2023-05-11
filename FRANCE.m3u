@@ -1,0 +1,1367 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 HD" tvg-logo="http://128.199.43.91/picons/NEW2022/tf1.png" group-title="FRANCE HD",TF1 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7819.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/FRANCE2.png" group-title="FRANCE HD",FRANCE 2 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7824.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FRANCE 3 HD" tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7823.ts
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="CANAL+ HD" tvg-logo="http://apimg.in/picons/NEW2022/canalplus.png" group-title="FRANCE HD",CANAL+ HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7809.ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FRANCE 5 HD" tvg-logo="http://apimg.in/picons/NEW2022/france5.png" group-title="FRANCE HD",FRANCE 5 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7821.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 HD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/m6hd.png" group-title="FRANCE HD",M6 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7818.ts
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE HD" tvg-logo="http://apimg.in/picons/NEW2022/arte.png" group-title="FRANCE HD",ARTE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7732.ts
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 HD" tvg-logo="http://apimg.in/picons/NEW2022/c8.png" group-title="FRANCE HD",C8 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7744.ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 HD" tvg-logo="http://apimg.in/picons/NEW2022/w9.png" group-title="FRANCE HD",W9 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7742.ts
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC HD" tvg-logo="http://apimg.in/picons/NEW2022/tmc1.png" group-title="FRANCE HD",TMC HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7839.ts
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX HD" tvg-logo="http://apimg.in/picons/NEW2022/tfx.png" group-title="FRANCE HD",TFX HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7782.ts
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NRJ 12 HD" tvg-logo="http://apimg.in/picons/NEW2022/nrj12.png" group-title="FRANCE HD",NRJ 12 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7810.ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES FILMS HD" tvg-logo="http://apimg.in/picons/NEW2022/tf1series.png" group-title="FRANCE HD",TF1 SERIES FILMS HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7790.ts
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="FRANCE 4 HD" tvg-logo="http://apimg.in/picons/NEW2022/france4.png" group-title="FRANCE HD",FRANCE 4 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7822.ts
+#EXTINF:-1 tvg-id="cstar.fr" tvg-name="CSTAR HD" tvg-logo="http://apimg.in/picons/NEW2022/cstar.png" group-title="FRANCE HD",CSTAR HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7743.ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER HD" tvg-logo="http://apimg.in/picons/NEW2022/6ter.png" group-title="FRANCE HD",6TER HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7745.ts
+#EXTINF:-1 tvg-id="TF1plus1.fr" tvg-name="TF1 +1" tvg-logo="http://apimg.in/picons/NEW2022/tf1plus1.png" group-title="FRANCE HD",TF1 +1
+http://tvplay.one:80/live/46532865581595496/1593574628/51309.ts
+#EXTINF:-1 tvg-id="TMCplus1.fr" tvg-name="TMC +1" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/tmc.png" group-title="FRANCE HD",TMC +1
+http://tvplay.one:80/live/46532865581595496/1593574628/75175.ts
+#EXTINF:-1 tvg-id="RMCStory.fr" tvg-name="RMC STORY HD" tvg-logo="http://apimg.in/picons/NEW2022/rmcstory.png" group-title="FRANCE HD",RMC STORY HD
+http://tvplay.one:80/live/46532865581595496/1593574628/8517.ts
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="RMC DECOUVERTE HD" tvg-logo="http://apimg.in/picons/NEW2022/rmc.png" group-title="FRANCE HD",RMC DECOUVERTE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7746.ts
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="CHÉRIE 25 HD" tvg-logo="http://apimg.in/picons/NEW2022/cherie25.png" group-title="FRANCE HD",CHÉRIE 25 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7747.ts
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFM TV HD" tvg-logo="http://apimg.in/picons/NEW2022/bfmtv.png" group-title="FRANCE HD",BFM TV HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7733.ts
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="CNEWS HD" tvg-logo="http://apimg.in/picons/NEW2022/cnews.png" group-title="FRANCE HD",CNEWS HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7739.ts
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI  HD" tvg-logo="http://apimg.in/picons/NEW2022/lci.png" group-title="FRANCE HD",LCI  HD
+http://tvplay.one:80/live/46532865581595496/1593574628/14793.ts
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="FRANCE INFO HD" tvg-logo="http://apimg.in/picons/NEW2022/franceinfo.png" group-title="FRANCE HD",FRANCE INFO HD
+http://tvplay.one:80/live/46532865581595496/1593574628/55500.ts
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FRANCE 24 HD" tvg-logo="http://apimg.in/picons/NEW2022/france24.png" group-title="FRANCE HD",FRANCE 24 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7738.ts
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="EURONEWS HD" tvg-logo="http://apimg.in/picons/NEW2022/euronews.png" group-title="FRANCE HD",EURONEWS HD
+https://7c8b7dbf12d64234a983336fdddb88c2.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-fr_EuroNewsLive/a08b6d08-e0bc-4b7a-b93a-da796929962b/1.m3u8
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP HD" tvg-logo="http://apimg.in/picons/NEW2022/lcp.png" group-title="FRANCE HD",LCP HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7829.ts
+#EXTINF:-1 tvg-id="i24news.fr" tvg-name="I24 NEWS HD" tvg-logo="http://apimg.in/picons/NEW2022/i24news.png" group-title="FRANCE HD",I24 NEWS HD
+http://tvplay.one:80/live/46532865581595496/1593574628/13076.ts
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS HD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bfmbusiness.png" group-title="FRANCE HD",BFM BUSINESS HD
+http://tvplay.one:80/live/46532865581595496/1593574628/63974.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="BFM TECH&CO" tvg-logo="http://128.199.43.91/pubs/2022/tech.png" group-title="FRANCE HD",BFM TECH&CO
+http://tvplay.one:80/live/46532865581595496/1593574628/37003.ts
+#EXTINF:-1 tvg-id="bfmparis.fr" tvg-name="BFM Paris HD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bfmparis.png" group-title="FRANCE HD",BFM Paris HD
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="bfmlyon.fr" tvg-name="BFM LYON HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/BFMLYON.png" group-title="FRANCE HD",BFM LYON HD
+http://tvplay.one:80/live/46532865581595496/1593574628/35825.ts
+#EXTINF:-1 tvg-id="01tv.fr" tvg-name="BFM MARSEILLE " tvg-logo="http://apimg.in/pubs/december2020/19-05-2021/bfmmarseille.png" group-title="FRANCE HD",BFM MARSEILLE 
+http://tvplay.one:80/live/46532865581595496/1593574628/75225.ts
+#EXTINF:-1 tvg-id="" tvg-name="BFM NICE " tvg-logo="http://apimg.in/pubs/december2020/19-05-2021/bfmnice.png" group-title="FRANCE HD",BFM NICE 
+http://tvplay.one:80/live/46532865581595496/1593574628/75227.ts
+#EXTINF:-1 tvg-id="Grand Lille TV" tvg-name="BFM GRAND LILLE HD " tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/BFMGRANDLILLE.png" group-title="FRANCE HD",BFM GRAND LILLE HD 
+http://tvplay.one:80/live/46532865581595496/1593574628/38756.ts
+#EXTINF:-1 tvg-id="" tvg-name="BFM GRAND Littoral HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/BFMLITO.png" group-title="FRANCE HD",BFM GRAND Littoral HD
+http://tvplay.one:80/live/46532865581595496/1593574628/41582.ts
+#EXTINF:-1 tvg-id="D!CI TV" tvg-name="BFM DICI ALPES" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bfmdici.png" group-title="FRANCE HD",BFM DICI ALPES
+http://tvplay.one:80/live/46532865581595496/1593574628/64720.ts
+#EXTINF:-1 tvg-id="D!CI TV" tvg-name="BFM DICI PROVENCE" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bfmdici.png" group-title="FRANCE HD",BFM DICI PROVENCE
+http://tvplay.one:80/live/46532865581595496/1593574628/64721.ts
+#EXTINF:-1 tvg-id="Var Azur" tvg-name="BFM TOULON VAR" tvg-logo="http://apimg.in/pubs/december2020/19-05-2021/bfmtoulon.png" group-title="FRANCE HD",BFM TOULON VAR
+http://tvplay.one:80/live/46532865581595496/1593574628/75226.ts
+#EXTINF:-1 tvg-id="" tvg-name="BFM ALSACE " tvg-logo="http://128.199.43.91/pubs/2022/bfmalsace.png" group-title="FRANCE HD",BFM ALSACE 
+http://tvplay.one:80/live/46532865581595496/1593574628/98750.ts
+#EXTINF:-1 tvg-id="LaChaineNormande.fr" tvg-name="BFM NORMANDIE " tvg-logo="http://128.199.43.91/pubs/2022/bfmnormandie.png" group-title="FRANCE HD",BFM NORMANDIE 
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_NORMANDIE/index.m3u8?start=LIVE&end=END
+#EXTINF:-1 tvg-id="Canal+Kids.fr" tvg-name="CANAL+ KIDS HD " tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/canalpluskids1.png" group-title="FRANCE HD",CANAL+ KIDS HD 
+http://tvplay.one:80/live/46532865581595496/1593574628/7807.ts
+#EXTINF:-1 tvg-id="Canal+Docs.fr" tvg-name="CANAL+ DOCS HD " tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/canalplusdocs.png" group-title="FRANCE HD",CANAL+ DOCS HD 
+http://tvplay.one:80/live/46532865581595496/1593574628/78269.ts
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="CANAL+ SERIES HD" tvg-logo="http://apimg.in/picons/NEW2022/series.png" group-title="FRANCE HD",CANAL+ SERIES HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7805.ts
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN HD" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/canalplusgrand.png" group-title="FRANCE HD",CANAL+ GRAND ECRAN HD
+http://tvplay.one:80/live/46532865581595496/1593574628/91537.ts
+#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="CANAL+ CINEMA HD" tvg-logo="http://apimg.in/picons/NEW2022/canalpluscinema.png" group-title="FRANCE HD",CANAL+ CINEMA HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7808.ts
+#EXTINF:-1 tvg-id="CinecinemaPremier.fr" tvg-name="CINE+ PREMIERE HD" tvg-logo="http://apimg.in/picons/NEW2022/cinepremier.png" group-title="FRANCE HD",CINE+ PREMIERE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7803.ts
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="CINE+ FRISSON HD" tvg-logo="http://apimg.in/picons/NEW2022/frisson.png" group-title="FRANCE HD",CINE+ FRISSON HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7802.ts
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="CINE+ CLASSIC  HD" tvg-logo="http://apimg.in/picons/NEW2022/classic.png" group-title="FRANCE HD",CINE+ CLASSIC  HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7799.ts
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="CINE+ EMOTION HD" tvg-logo="http://apimg.in/picons/NEW2022/emotion.png" group-title="FRANCE HD",CINE+ EMOTION HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7800.ts
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="CINE+ FAMIZ HD" tvg-logo="http://apimg.in/picons/NEW2022/famiz.png" group-title="FRANCE HD",CINE+ FAMIZ HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7801.ts
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="CINE+ CLUB HD" tvg-logo="http://apimg.in/picons/NEW2022/club.png" group-title="FRANCE HD",CINE+ CLUB HD
+http://tvplay.one:80/live/46532865581595496/1593574628/13526.ts
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="ACTION HD" tvg-logo="http://apimg.in/picons/NEW2022/action.png" group-title="FRANCE HD",ACTION HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7784.ts
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="PARAMOUNT HD" tvg-logo="http://apimg.in/picons/NEW2022/paramountchannel.png" group-title="FRANCE HD",PARAMOUNT HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7794.ts
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="PARAMOUNT DECALE HD" tvg-logo="http://apimg.in/picons/NEW2022/paramountchannel.png" group-title="FRANCE HD",PARAMOUNT DECALE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7793.ts
+#EXTINF:-1 tvg-id="Eurochannel.fr" tvg-name="EUROCHANNEL " tvg-logo="http://128.199.43.91/pubs/2022/eurochannel.png" group-title="FRANCE HD",EUROCHANNEL 
+http://tvplay.one:80/live/46532865581595496/1593574628/58559.ts
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TCM CINEMA HD" tvg-logo="http://apimg.in/picons/NEW2022/tcmi.png" group-title="FRANCE HD",TCM CINEMA HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7785.ts
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS GEANTS HD" tvg-logo="http://apimg.in/picons/NEW2022/geants.png" group-title="FRANCE HD",OCS GEANTS HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7798.ts
+#EXTINF:-1 tvg-id="OCSPulp.fr" tvg-name="OCS PULP HD" tvg-logo="http://128.199.43.91/pubs/2022/ocspulp.png" group-title="FRANCE HD",OCS PULP HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7796.ts
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="OCS MAX HD" tvg-logo="http://apimg.in/picons/NEW2022/ocsmax.png" group-title="FRANCE HD",OCS MAX HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7842.ts
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="SERIE CLUB HD" tvg-logo="http://apimg.in/picons/NEW2022/serieclub.png" group-title="FRANCE HD",SERIE CLUB HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7795.ts
+#EXTINF:-1 tvg-id="polarplus.fr" tvg-name="POLAR+ HD" tvg-logo="http://apimg.in/picons/NEW2022/polarplus.png" group-title="FRANCE HD",POLAR+ HD
+http://tvplay.one:80/live/46532865581595496/1593574628/10339.ts
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="TV BREIZH HD" tvg-logo="http://apimg.in/picons/NEW2022/breizh.png" group-title="FRANCE HD",TV BREIZH HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7777.ts
+#EXTINF:-1 tvg-id="13emerue.fr" tvg-name="13EME RUE HD" tvg-logo="http://apimg.in/picons/NEW2022/13.png" group-title="FRANCE HD",13EME RUE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7754.ts
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="SYFY HD" tvg-logo="http://apimg.in/picons/NEW2022/syfy1.png" group-title="FRANCE HD",SYFY HD
+http://tvplay.one:80/live/46532865581595496/1593574628/52203.ts
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="WARNER TV HD " tvg-logo="http://apimg.in/picons/NEW2022/warner.png" group-title="FRANCE HD",WARNER TV HD 
+http://tvplay.one:80/live/46532865581595496/1593574628/13043.ts
+#EXTINF:-1 tvg-id="Be1.be" tvg-name="HBO PRIME 1" tvg-logo="http://128.199.43.91/pubs/2022/hboprimevideo1.png" group-title="FRANCE HD",HBO PRIME 1
+http://tvplay.one:80/live/46532865581595496/1593574628/104749.ts
+#EXTINF:-1 tvg-id="superecran4.ca" tvg-name="HBO PRIME 2" tvg-logo="http://128.199.43.91/pubs/2022/hboprimevideo1.png" group-title="FRANCE HD",HBO PRIME 2
+http://tvplay.one:80/live/46532865581595496/1593574628/104750.ts
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="AB1 HD" tvg-logo="http://apimg.in/picons/NEW2022/ab1.png" group-title="FRANCE HD",AB1 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7780.ts
+#EXTINF:-1 tvg-id="AB3.fr" tvg-name="AB3 HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-BELGIUM/AB3.png" group-title="FRANCE HD",AB3 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/58558.ts
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="RTL9 HD" tvg-logo="http://apimg.in/picons/NEW2022/rtl9.png" group-title="FRANCE HD",RTL9 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7783.ts
+#EXTINF:-1 tvg-id="ParisPremiere.fr" tvg-name="PARIS PREMIERE  HD" tvg-logo="http://apimg.in/picons/NEW2022/parispremiere.png" group-title="FRANCE HD",PARIS PREMIERE  HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7791.ts
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="TÉVA HD" tvg-logo="http://apimg.in/picons/NEW2022/teva.png" group-title="FRANCE HD",TÉVA HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7837.ts
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="COMEDY CENTRAL HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-SPAIN/COMEDYCENTRAL.png" group-title="FRANCE HD",COMEDY CENTRAL HD
+http://tvplay.one:80/live/46532865581595496/1593574628/63156.ts
+#EXTINF:-1 tvg-id="comedieplus.fr" tvg-name="COMEDIE+ HD" tvg-logo="http://apimg.in/picons/NEW2022/comedieplus.png" group-title="FRANCE HD",COMEDIE+ HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7786.ts
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="BET HD" tvg-logo="http://apimg.in/picons/NEW2022/bet.png" group-title="FRANCE HD",BET HD
+http://tvplay.one:80/live/46532865581595496/1593574628/10814.ts
+#EXTINF:-1 tvg-id="novelastv.fr" tvg-name="NOVELAS HD" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/novelas.png" group-title="FRANCE HD",NOVELAS HD
+http://tvplay.one:80/live/46532865581595496/1593574628/40676.ts
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+ HD" tvg-logo="http://apimg.in/picons/NEW2022/planeteplus.png" group-title="FRANCE HD",PLANETE+ HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7757.ts
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CRIME HD" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/planetecrime.png" group-title="FRANCE HD",PLANETE+ CRIME HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7756.ts
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="PLANETE+ AVENTURE HD" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/planeteaventure.png" group-title="FRANCE HD",PLANETE+ AVENTURE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/124.ts
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-SPAIN/DISCOVERYCHANNEL.png" group-title="FRANCE HD",DISCOVERY HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7761.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="http://apimg.in/picons/NEW2022/sci.png" group-title="FRANCE HD",DISCOVERY SCIENCE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7835.ts
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION HD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQET-PORTUGAL/id.png" group-title="FRANCE HD",DISCOVERY INVESTIGATION HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7885.ts
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="CRIME DISTRICT HD" tvg-logo="http://apimg.in/picons/NEW2022/crimedistrict.png" group-title="FRANCE HD",CRIME DISTRICT HD
+http://tvplay.one:80/live/46532865581595496/1593574628/8771.ts
+#EXTINF:-1 tvg-id="" tvg-name="HOMICIDE TV" tvg-logo="http://128.199.43.91/pubs/2022/homicide.png" group-title="FRANCE HD",HOMICIDE TV
+http://tvplay.one:80/live/46532865581595496/1593574628/101156.ts
+#EXTINF:-1 tvg-id="FRBA3300059J5" tvg-name="SCENE DE CRIME" tvg-logo="http://128.199.43.91/pubs/2022/scenedecrime.png" group-title="FRANCE HD",SCENE DE CRIME
+http://tvplay.one:80/live/46532865581595496/1593574628/74437.ts
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NAT GEO HD" tvg-logo="http://apimg.in/picons/NEW2022/national.png" group-title="FRANCE HD",NAT GEO HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7762.ts
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="NAT GEO WILD HD" tvg-logo="http://apimg.in/picons/NEW2022/nationalwild.png" group-title="FRANCE HD",NAT GEO WILD HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7763.ts
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX HD" tvg-logo="http://apimg.in/picons/NEW2022/animaux.png" group-title="FRANCE HD",ANIMAUX HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7753.ts
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAÏA TV HD" tvg-logo="http://apimg.in/picons/NEW2022/ushuaia1.png" group-title="FRANCE HD",USHUAÏA TV HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7832.ts
+#EXTINF:-1 tvg-id="CHBC4000006ZD" tvg-name="DESTINATION NATURE " tvg-logo="http://128.199.43.91/pubs/2022/distinationnature.png" group-title="FRANCE HD",DESTINATION NATURE 
+http://tvplay.one:80/live/46532865581595496/1593574628/100581.ts
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS HD" tvg-logo="http://apimg.in/picons/NEW2022/seasons.png" group-title="FRANCE HD",SEASONS HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7759.ts
+#EXTINF:-1 tvg-id="chassepeche.fr" tvg-name="CHASSE & PECHE  HD" tvg-logo="http://apimg.in/picons/NEW2022/chasse.png" group-title="FRANCE HD",CHASSE & PECHE  HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7752.ts
+#EXTINF:-1 tvg-id="ScienceEtVieTV.fr" tvg-name="SCIENCE & VIE TV HD" tvg-logo="http://apimg.in/picons/NEW2022/scienceandvie.png" group-title="FRANCE HD",SCIENCE & VIE TV HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7831.ts
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV HD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/histoiretv.png" group-title="FRANCE HD",HISTOIRE TV HD
+http://tvplay.one:80/live/46532865581595496/1593574628/13529.ts
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="TOUTE LHISTOIRE HD" tvg-logo="http://apimg.in/picons/NEW2022/toutelhistoire.png" group-title="FRANCE HD",TOUTE LHISTOIRE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7834.ts
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="TREK HD" tvg-logo="http://apimg.in/picons/NEW2022/trek.png" group-title="FRANCE HD",TREK HD
+http://tvplay.one:80/live/46532865581595496/1593574628/36162.ts
+#EXTINF:-1 tvg-id="FRBA330002044" tvg-name="TRAVEL XP " tvg-logo="http://apimg.in/picons/NEW2022/travelxp.png" group-title="FRANCE HD",TRAVEL XP 
+https://0b0a5371d15f48128cf69b029230eac6.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-fr_TravelXP/playlist.m3u8?ads.wurl_channel=1157&ads.wurl_name=TravelXP&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D%20%20
+#EXTINF:-1 tvg-id="Museum.fr" tvg-name="MUSEUM TV" tvg-logo="http://apimg.in/picons/NEW2022/museum.png" group-title="FRANCE HD",MUSEUM TV
+http://tvplay.one:80/live/46532865581595496/1593574628/7792.ts
+#EXTINF:-1 tvg-id="nauticalchannel.fr" tvg-name="NAUTICAL CHANNEL " tvg-logo="http://128.199.43.91/pubs/nautical.png" group-title="FRANCE HD",NAUTICAL CHANNEL 
+http://tvplay.one:80/live/46532865581595496/1593574628/97096.ts
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="INFOSPORT+ HD" tvg-logo="http://apimg.in/picons/NEW2022/infosportplus.png" group-title="FRANCE HD",INFOSPORT+ HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7771.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="http://apimg.in/picons/NEW2022/e1.png" group-title="FRANCE HD",EUROSPORT 1 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7736.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="EUROSPORT 2 HD" tvg-logo="http://apimg.in/picons/NEW2022/e2.png" group-title="FRANCE HD",EUROSPORT 2 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7828.ts
+#EXTINF:-1 tvg-id="EUROSPORT3601.fr" tvg-name="EUROSPORT360 - 1" tvg-logo="http://apimg.in/picons/NEW2022/e.png" group-title="FRANCE HD",EUROSPORT360 - 1
+http://tvplay.one:80/live/46532865581595496/1593574628/67355.ts
+#EXTINF:-1 tvg-id="EUROSPORT3602.fr" tvg-name="EUROSPORT360 - 2" tvg-logo="http://apimg.in/picons/NEW2022/e.png" group-title="FRANCE HD",EUROSPORT360 - 2
+http://tvplay.one:80/live/46532865581595496/1593574628/70512.ts
+#EXTINF:-1 tvg-id="EUROSPORT3603.fr" tvg-name="EUROSPORT360 - 3" tvg-logo="http://apimg.in/picons/NEW2022/e.png" group-title="FRANCE HD",EUROSPORT360 - 3
+http://tvplay.one:80/live/46532865581595496/1593574628/70514.ts
+#EXTINF:-1 tvg-id="EUROSPORT3604.fr" tvg-name="EUROSPORT360 - 4" tvg-logo="http://apimg.in/picons/NEW2022/e.png" group-title="FRANCE HD",EUROSPORT360 - 4
+http://tvplay.one:80/live/46532865581595496/1593574628/70516.ts
+#EXTINF:-1 tvg-id="eurosport3605.fr" tvg-name="EUROSPORT360 - 5" tvg-logo="http://apimg.in/picons/NEW2022/e.png" group-title="FRANCE HD",EUROSPORT360 - 5
+http://tvplay.one:80/live/46532865581595496/1593574628/70939.ts
+#EXTINF:-1 tvg-id="eurosport3606.fr" tvg-name="EUROSPORT360 - 6" tvg-logo="http://apimg.in/picons/NEW2022/e.png" group-title="FRANCE HD",EUROSPORT360 - 6
+http://tvplay.one:80/live/46532865581595496/1593574628/70940.ts
+#EXTINF:-1 tvg-id="eurosport3607.fr" tvg-name="EUROSPORT360 - 7" tvg-logo="http://apimg.in/picons/NEW2022/e.png" group-title="FRANCE HD",EUROSPORT360 - 7
+http://tvplay.one:80/live/46532865581595496/1593574628/75796.ts
+#EXTINF:-1 tvg-id="eurosport3608.fr" tvg-name="EUROSPORT360 - 8" tvg-logo="http://apimg.in/picons/NEW2022/e.png" group-title="FRANCE HD",EUROSPORT360 - 8
+http://tvplay.one:80/live/46532865581595496/1593574628/85527.ts
+#EXTINF:-1 tvg-id="sportenfrance.fr" tvg-name="SPORT EN FRANCE HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-SPORTHD/SPORTENFRANCE.png" group-title="FRANCE HD",SPORT EN FRANCE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/35723.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="GOLF+ HD" tvg-logo="http://apimg.in/picons/NEW2022/golfplus.png" group-title="FRANCE HD",GOLF+ HD
+http://tvplay.one:80/live/46532865581595496/1593574628/13785.ts
+#EXTINF:-1 tvg-id="GolfChannel.fr" tvg-name="GOLF CHANNEL HD" tvg-logo="http://apimg.in/picons/NEW2022/golf.png" group-title="FRANCE HD",GOLF CHANNEL HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7766.ts
+#EXTINF:-1 tvg-id="" tvg-name="JOURNAL DU GOLF " tvg-logo="http://128.199.43.91/pubs/2022/journalgolf.png" group-title="FRANCE HD",JOURNAL DU GOLF 
+http://tvplay.one:80/live/46532865581595496/1593574628/108469.ts
+#EXTINF:-1 tvg-id="OLTV.fr" tvg-name="OL PLAY" tvg-logo="http://128.199.43.91/pubs/2022/olplay1.png" group-title="FRANCE HD",OL PLAY
+http://tvplay.one:80/live/46532865581595496/1593574628/51081.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="EQUIDIA HD" tvg-logo="http://apimg.in/picons/NEW2022/equidia1.png" group-title="FRANCE HD",EQUIDIA HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7770.ts
+#EXTINF:-1 tvg-id="" tvg-name="CHEVAL TV" tvg-logo="http://128.199.43.91/pubs/2022/chevaltv.png" group-title="FRANCE HD",CHEVAL TV
+http://tvplay.one:80/live/46532865581595496/1593574628/58560.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="AUTOMOTO LA CHAINE HD" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/automoto1.png" group-title="FRANCE HD",AUTOMOTO LA CHAINE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7838.ts
+#EXTINF:-1 tvg-id="FRBA1500004O2" tvg-name="AUTO PLUS " tvg-logo="http://128.199.43.91/pubs/2022/autoplus.png" group-title="FRANCE HD",AUTO PLUS 
+http://tvplay.one:80/live/46532865581595496/1593574628/7781.ts
+#EXTINF:-1 tvg-id="MotorsportTV.fr" tvg-name="MOTORSPORT TV" tvg-logo="http://128.199.43.91/pubs/2022/motorsporttv.png" group-title="FRANCE HD",MOTORSPORT TV
+http://tvplay.one:80/live/46532865581595496/1593574628/105962.ts
+#EXTINF:-1 tvg-id="" tvg-name="MCS EXTREME " tvg-logo="http://128.199.43.91/pubs/2022/mcsextreme.png" group-title="FRANCE HD",MCS EXTREME 
+http://tvplay.one:80/live/46532865581595496/1593574628/105705.ts
+#EXTINF:-1 tvg-id="" tvg-name="WATAAA " tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/wata.png" group-title="FRANCE HD",WATAAA 
+http://tvplay.one:80/live/46532865581595496/1593574628/78968.ts
+#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="E! HD" tvg-logo="http://apimg.in/picons/NEW2022/edot.png" group-title="FRANCE HD",E! HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7789.ts
+#EXTINF:-1 tvg-id="LaChaineMeteo.fr" tvg-name="LA CHAINE METEO HD " tvg-logo="http://128.199.43.91/pubs/2022/meteo.png" group-title="FRANCE HD",LA CHAINE METEO HD 
+http://tvplay.one:80/live/46532865581595496/1593574628/95785.ts
+#EXTINF:-1 tvg-id="M6INTERNATIONAL" tvg-name="M6 INTERNATIONAL HD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/m6.png" group-title="FRANCE HD",M6 INTERNATIONAL HD
+http://tvplay.one:80/live/46532865581595496/1593574628/68707.ts
+#EXTINF:-1 tvg-id="tv5mondefrancebelgiquesuisse.fr" tvg-name="TV5 MONDE FBS HD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE FBS HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7830.ts
+#EXTINF:-1 tvg-id="TV5MondeEurope.fr" tvg-name="TV5 MONDE EUROPE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE EUROPE 
+http://tvplay.one:80/live/46532865581595496/1593574628/50976.ts
+#EXTINF:-1 tvg-id="TV5MondeInfo.fr" tvg-name="TV5 MONDE INFO " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE INFO 
+http://tvplay.one:80/live/46532865581595496/1593574628/35835.ts
+#EXTINF:-1 tvg-id="TV5MondeMaghrebOrient.fr" tvg-name="TV5 MONDE MAGHREB " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE MAGHREB 
+http://tvplay.one:80/live/46532865581595496/1593574628/105955.ts
+#EXTINF:-1 tvg-id="TV5MondeAsie.fr" tvg-name="TV5 MONDE ASIE" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE ASIE
+http://tvplay.one:80/live/46532865581595496/1593574628/50974.ts
+#EXTINF:-1 tvg-id="TV5.ca" tvg-name="TV5 MONDE QUEBEC " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE QUEBEC 
+http://tvplay.one:80/live/46532865581595496/1593574628/50986.ts
+#EXTINF:-1 tvg-id="tv5mondeetatsunis.fr" tvg-name="TV5 MONDE ÉTATS-UNIS " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE ÉTATS-UNIS 
+http://tvplay.one:80/live/46532865581595496/1593574628/95439.ts
+#EXTINF:-1 tvg-id="TV5Style.fr" tvg-name="TV5 MONDE STYLE" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/bouquetislam/tv5monde.png" group-title="FRANCE HD",TV5 MONDE STYLE
+http://tvplay.one:80/live/46532865581595496/1593574628/95440.ts
+#EXTINF:-1 tvg-id="" tvg-name="SQOOL TV" tvg-logo="" group-title="FRANCE HD",SQOOL TV
+http://tvplay.one:80/live/46532865581595496/1593574628/99362.ts
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-ARABIC/DREAMWORKS.png" group-title="FRANCE HD",DREAMWORKS HD
+http://tvplay.one:80/live/46532865581595496/1593574628/58528.ts
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="TELETOON+  HD" tvg-logo="http://apimg.in/picons/NEW2022/teletoonplus.png" group-title="FRANCE HD",TELETOON+  HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7718.ts
+#EXTINF:-1 tvg-id="TeleTOONplus1.fr" tvg-name="TELETOON +1 HD" tvg-logo="http://apimg.in/picons/NEW2022/teletoonplus1.png" group-title="FRANCE HD",TELETOON +1 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/1639.ts
+#EXTINF:-1 tvg-id="BabyTV.fr" tvg-name="BABY TV HD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQET-PORTUGAL/babytv.png" group-title="FRANCE HD",BABY TV HD
+http://tvplay.one:80/live/46532865581595496/1593574628/41411.ts
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="BOOMERANG HD" tvg-logo="http://apimg.in/picons/NEW2020/ITALY-PICONS/group2/boomerrang.png" group-title="FRANCE HD",BOOMERANG HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7721.ts
+#EXTINF:-1 tvg-id="Boomerangplus1.fr" tvg-name="BOOMERANG +1" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/boomer.png" group-title="FRANCE HD",BOOMERANG +1
+http://tvplay.one:80/live/46532865581595496/1593574628/81084.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="CARTOON NETWORK HD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQET-PORTUGAL/cartoon.png" group-title="FRANCE HD",CARTOON NETWORK HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7717.ts
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="GULLI HD" tvg-logo="http://apimg.in/picons/NEW2022/gulli.png" group-title="FRANCE HD",GULLI HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7722.ts
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="CANAL J HD" tvg-logo="http://apimg.in/picons/NEW2022/canalj.png" group-title="FRANCE HD",CANAL J HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7720.ts
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="TIJI HD" tvg-logo="http://apimg.in/picons/NEW2022/tiji.png" group-title="FRANCE HD",TIJI HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7719.ts
+#EXTINF:-1 tvg-id="Boing.fr" tvg-name="CARTOONITO HD" tvg-logo="http://128.199.43.91/pubs/2022/cartonito.png" group-title="FRANCE HD",CARTOONITO HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7723.ts
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="TOONAMI HD" tvg-logo="http://apimg.in/picons/NEW2022/toonami.png" group-title="FRANCE HD",TOONAMI HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7724.ts
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="DISNEY CHANNEL HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-SPAIN/DISNEYCHANNEL.png" group-title="FRANCE HD",DISNEY CHANNEL HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7725.ts
+#EXTINF:-1 tvg-id="disneychannelplus1.fr" tvg-name="DISNEY CHANNEL +1" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/disney1plus.png" group-title="FRANCE HD",DISNEY CHANNEL +1
+http://tvplay.one:80/live/46532865581595496/1593574628/91546.ts
+#EXTINF:-1 tvg-id="disneyjunior.fr" tvg-name="DISNEY JUNIOR HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-SPAIN/DISNEYJUNIOR.png" group-title="FRANCE HD",DISNEY JUNIOR HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7826.ts
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="PIWI+ HD" tvg-logo="http://apimg.in/picons/NEW2022/piwiplus.png" group-title="FRANCE HD",PIWI+ HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7730.ts
+#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="NICK JUNIOR HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-SPAIN/NICKJUNIOR.png" group-title="FRANCE HD",NICK JUNIOR HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7728.ts
+#EXTINF:-1 tvg-id="nickelodeon.fr" tvg-name="NICKELODEON HD" tvg-logo="http://apimg.in/picons/NEW2022/nicklodeon.png" group-title="FRANCE HD",NICKELODEON HD
+http://tvplay.one:80/live/46532865581595496/1593574628/13852.ts
+#EXTINF:-1 tvg-id="nickelodeonplus1.fr" tvg-name="NICKELODEON +1" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/nicke.png" group-title="FRANCE HD",NICKELODEON +1
+http://tvplay.one:80/live/46532865581595496/1593574628/78448.ts
+#EXTINF:-1 tvg-id="nickelodeonteen.fr" tvg-name="NICKELODEON Teen HD" tvg-logo="http://apimg.in/picons/NEW2022/nicklodeonteen.png" group-title="FRANCE HD",NICKELODEON Teen HD
+http://tvplay.one:80/live/46532865581595496/1593574628/12226.ts
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="GAME ONE HD" tvg-logo="http://apimg.in/picons/NEW2022/gameone1.png" group-title="FRANCE HD",GAME ONE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7836.ts
+#EXTINF:-1 tvg-id="GameOneplus1.fr" tvg-name="GAME ONE+1" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/gameone.png" group-title="FRANCE HD",GAME ONE+1
+http://tvplay.one:80/live/46532865581595496/1593574628/61245.ts
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="MANGAS HD" tvg-logo="http://128.199.43.91/pubs/2022/mangas.png" group-title="FRANCE HD",MANGAS HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7727.ts
+#EXTINF:-1 tvg-id="jone.fr" tvg-name="J-ONE HD" tvg-logo="http://apimg.in/picons/NEW2022/jone.png" group-title="FRANCE HD",J-ONE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7764.ts
+#EXTINF:-1 tvg-id="FRBA2200007G7" tvg-name="ADN" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/adn.png" group-title="FRANCE HD",ADN
+http://tvplay.one:80/live/46532865581595496/1593574628/70476.ts
+#EXTINF:-1 tvg-id="5f8ed52a62fa750007733239" tvg-name="ANIMÉ ALL DAY " tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/animeallday.png" group-title="FRANCE HD",ANIMÉ ALL DAY 
+http://tvplay.one:80/live/46532865581595496/1593574628/63391.ts
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM HD" tvg-logo="http://apimg.in/picons/NEW2022/mcm.png" group-title="FRANCE HD",MCM HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7816.ts
+#EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="MCM TOP HD" tvg-logo="http://128.199.43.91/pubs/2022/mcmtop.png" group-title="FRANCE HD",MCM TOP HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7844.ts
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="NRJ HITS HD" tvg-logo="http://128.199.43.91/pubs/2022/nrjhits.png" group-title="FRANCE HD",NRJ HITS HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7843.ts
+#EXTINF:-1 tvg-id="CStarHits.fr" tvg-name="CSTAR HITS FRANCE" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/cstar.png" group-title="FRANCE HD",CSTAR HITS FRANCE
+http://tvplay.one:80/live/46532865581595496/1593574628/61401.ts
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="M6 MUSIC HD" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/music.png" group-title="FRANCE HD",M6 MUSIC HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7817.ts
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="RFM TV HD" tvg-logo="http://apimg.in/picons/NEW2022/rfm.png" group-title="FRANCE HD",RFM TV HD
+http://tvplay.one:80/live/46532865581595496/1593574628/62403.ts
+#EXTINF:-1 tvg-id="traceurban.fr" tvg-name="TRACE URBAN HD" tvg-logo="http://128.199.43.91/pubs/2022/traceurban.png" group-title="FRANCE HD",TRACE URBAN HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7811.ts
+#EXTINF:-1 tvg-id="TraceLatina.fr" tvg-name="TRACE LATINA" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/tracelatina.png" group-title="FRANCE HD",TRACE LATINA
+http://tvplay.one:80/live/46532865581595496/1593574628/48803.ts
+#EXTINF:-1 tvg-id="tracecaribbean.fr" tvg-name="TRACE CARIBBEAN " tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/tracecarribean.png" group-title="FRANCE HD",TRACE CARIBBEAN 
+http://tvplay.one:80/live/46532865581595496/1593574628/76904.ts
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV HD" tvg-logo="http://128.199.43.91/pubs/2022/mtv.png" group-title="FRANCE HD",MTV HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7815.ts
+#EXTINF:-1 tvg-id="MTVHits.fr" tvg-name="MTV 10s HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/MTVHITS.png" group-title="FRANCE HD",MTV 10s HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7813.ts
+#EXTINF:-1 tvg-id="C263.api.telerama.fr" tvg-name="MTV 80S" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/mtvbase.png" group-title="FRANCE HD",MTV 80S
+http://tvplay.one:80/live/46532865581595496/1593574628/56141.ts
+#EXTINF:-1 tvg-id="" tvg-name="D5 MUSIC" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/d5music.png" group-title="FRANCE HD",D5 MUSIC
+http://tvplay.one:80/live/46532865581595496/1593574628/47006.ts
+#EXTINF:-1 tvg-id="FRBA3300056OD" tvg-name="OFIVE TV " tvg-logo="http://www.ofive.tv/wp-content/uploads/2021/01/cropped-ofive_1-1.png" group-title="FRANCE HD",OFIVE TV 
+http://tvplay.one:80/live/46532865581595496/1593574628/74438.ts
+#EXTINF:-1 tvg-id="600ad8f86e1eba00081da3ce" tvg-name="CLUBBING TV" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/clubbing.tv.png" group-title="FRANCE HD",CLUBBING TV
+http://tvplay.one:80/live/46532865581595496/1593574628/68223.ts
+#EXTINF:-1 tvg-id="BBLACKAFRICA.civ" tvg-name="BBLACK! " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/blackcarrbean3.png" group-title="FRANCE HD",BBLACK! 
+http://tvplay.one:80/live/46532865581595496/1593574628/67813.ts
+#EXTINF:-1 tvg-id="BBlackCaribbean.fr" tvg-name="BBLACK! CARIBBEAN " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/blackcarrbean1.png" group-title="FRANCE HD",BBLACK! CARIBBEAN 
+http://tvplay.one:80/live/46532865581595496/1593574628/67814.ts
+#EXTINF:-1 tvg-id="StingrayClassica.fr" tvg-name="STINGRAY CLASSICA HD" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/stingrayclassica.png" group-title="FRANCE HD",STINGRAY CLASSICA HD
+https://watchtv-raw.ott-channels.stingray.com/classica/index.m3u8
+#EXTINF:-1 tvg-id="StingrayIconcerts.eu" tvg-name="STINGRAY ICONCERT " tvg-logo="http://128.199.43.91/pubs/2022/stingray.png" group-title="FRANCE HD",STINGRAY ICONCERT 
+http://tvplay.one:80/live/46532865581595496/1593574628/101177.ts
+#EXTINF:-1 tvg-id="StingrayDjazz.fr" tvg-name="DJAZZ TV HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/DJAZZTV.png" group-title="FRANCE HD",DJAZZ TV HD
+http://tvplay.one:80/live/46532865581595496/1593574628/12745.ts
+#EXTINF:-1 tvg-id="olympia.fr" tvg-name="OLYMPIA HD" tvg-logo="http://apimg.in/picons/NEW2022/lympia.png" group-title="FRANCE HD",OLYMPIA HD
+http://tvplay.one:80/live/46532865581595496/1593574628/91602.ts
+#EXTINF:-1 tvg-id="C125.api.telerama.fr" tvg-name="MEZZO " tvg-logo="http://apimg.in/picons/PICONS-BOUUQET-PORTUGAL/mezzo.png" group-title="FRANCE HD",MEZZO 
+http://tvplay.one:80/live/46532865581595496/1593574628/56324.ts
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="MEZZO LIVE HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/MEZZOLIVE.png" group-title="FRANCE HD",MEZZO LIVE HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7624.ts
+#EXTINF:-1 tvg-id="melody.fr" tvg-name="MELODY TV HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/MELODY.png" group-title="FRANCE HD",MELODY TV HD
+http://tvplay.one:80/live/46532865581595496/1593574628/23899.ts
+#EXTINF:-1 tvg-id="" tvg-name="RVI TV" tvg-logo="" group-title="FRANCE HD",RVI TV
+http://tvplay.one:80/live/46532865581595496/1593574628/87420.ts
+#EXTINF:-1 tvg-id="" tvg-name="Generation tv" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/generations.png" group-title="FRANCE HD",Generation tv
+http://tvplay.one:80/live/46532865581595496/1593574628/56146.ts
+#EXTINF:-1 tvg-id="FRBA39000014W" tvg-name="VEVO POP" tvg-logo="" group-title="FRANCE HD",VEVO POP
+http://tvplay.one:80/live/46532865581595496/1593574628/75176.ts
+#EXTINF:-1 tvg-id="FRBA3900002RJ" tvg-name="VEVO HIP HOP FR" tvg-logo="" group-title="FRANCE HD",VEVO HIP HOP FR
+http://tvplay.one:80/live/46532865581595496/1593574628/77011.ts
+#EXTINF:-1 tvg-id="604f8d6c7877d40007791af0" tvg-name="LOUPE MUSIC" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/louppeart.png" group-title="FRANCE HD",LOUPE MUSIC
+http://tvplay.one:80/live/46532865581595496/1593574628/68222.ts
+#EXTINF:-1 tvg-id="" tvg-name="D5 TV" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/D5TV.png" group-title="FRANCE HD",D5 TV
+http://tvplay.one:80/live/46532865581595496/1593574628/35135.ts
+#EXTINF:-1 tvg-id="es1.fr" tvg-name="MGG TV HD" tvg-logo="http://apimg.in/picons/NEW2022/toutlesport.png" group-title="FRANCE HD",MGG TV HD
+http://tvplay.one:80/live/46532865581595496/1593574628/38556.ts
+#EXTINF:-1 tvg-id="FRBB49000014I" tvg-name="GONG" tvg-logo="http://128.199.43.91/pubs/2022/gong.png" group-title="FRANCE HD",GONG
+http://tvplay.one:80/live/46532865581595496/1593574628/97231.ts
+#EXTINF:-1 tvg-id="GongMax.fr" tvg-name="GONG MAX " tvg-logo="http://128.199.43.91/pubs/2022/gongmax.png" group-title="FRANCE HD",GONG MAX 
+http://tvplay.one:80/live/46532865581595496/1593574628/79748.ts
+#EXTINF:-1 tvg-id="" tvg-name="GOURMAND TV" tvg-logo="http://128.199.43.91/pubs/2022/gourmand.png" group-title="FRANCE HD",GOURMAND TV
+http://tvplay.one:80/live/46532865581595496/1593574628/99089.ts
+#EXTINF:-1 tvg-id="FRBA330005784" tvg-name="EXQUIS TV" tvg-logo="" group-title="FRANCE HD",EXQUIS TV
+http://tvplay.one:80/live/46532865581595496/1593574628/67538.ts
+#EXTINF:-1 tvg-id="" tvg-name="MY COMEDY " tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-CANADA/MYCOMEDY.png" group-title="FRANCE HD",MY COMEDY 
+http://tvplay.one:80/live/46532865581595496/1593574628/56144.ts
+#EXTINF:-1 tvg-id="" tvg-name="HUMANITY.TV" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/humanity.png" group-title="FRANCE HD",HUMANITY.TV
+http://tvplay.one:80/live/46532865581595496/1593574628/67564.ts
+#EXTINF:-1 tvg-id="ESBA3300036W1" tvg-name="MUSEUM TV FREE" tvg-logo="" group-title="FRANCE HD",MUSEUM TV FREE
+http://tvplay.one:80/live/46532865581595496/1593574628/76881.ts
+#EXTINF:-1 tvg-id="LuckyJack.fr" tvg-name="LUCKY JACK TV HD" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/luckyjack.png" group-title="FRANCE HD",LUCKY JACK TV HD
+http://tvplay.one:80/live/46532865581595496/1593574628/30490.ts
+#EXTINF:-1 tvg-id="FRBA3300060U8" tvg-name="LUXE TV " tvg-logo="" group-title="FRANCE HD",LUXE TV 
+http://tvplay.one:80/live/46532865581595496/1593574628/67689.ts
+#EXTINF:-1 tvg-id="FRBA3300061XH" tvg-name="  AVENTURAMA TV" tvg-logo="" group-title="FRANCE HD",  AVENTURAMA TV
+http://tvplay.one:80/live/46532865581595496/1593574628/76883.ts
+#EXTINF:-1 tvg-id="" tvg-name="MAISON & TRAVEAUX " tvg-logo="http://apimg.in/pubs/december2020/30-10-21/mandt.png" group-title="FRANCE HD",MAISON & TRAVEAUX 
+http://tvplay.one:80/live/46532865581595496/1593574628/69393.ts
+#EXTINF:-1 tvg-id="" tvg-name="TOP SANTÉ" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/topsantetv.png" group-title="FRANCE HD",TOP SANTÉ
+http://tvplay.one:80/live/46532865581595496/1593574628/81027.ts
+#EXTINF:-1 tvg-id="AstroCenter.fr" tvg-name="ASTRO CENTER TV" tvg-logo="" group-title="FRANCE HD",ASTRO CENTER TV
+http://tvplay.one:80/live/46532865581595496/1593574628/90728.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOZAIK CRISTAL " tvg-logo="" group-title="FRANCE HD",MOZAIK CRISTAL 
+http://tvplay.one:80/live/46532865581595496/1593574628/81029.ts
+#EXTINF:-1 tvg-id="" tvg-name="ESPRIT SORCIER TV" tvg-logo="http://128.199.43.91/pubs/2022/esprit.png" group-title="FRANCE HD",ESPRIT SORCIER TV
+http://tvplay.one:80/live/46532865581595496/1593574628/105956.ts
+#EXTINF:-1 tvg-id="MyZenTV.fr" tvg-name="MYZEN TV" tvg-logo="" group-title="FRANCE HD",MYZEN TV
+http://tvplay.one:80/live/46532865581595496/1593574628/76880.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYZEN FIT" tvg-logo="" group-title="FRANCE HD",MYZEN FIT
+http://tvplay.one:80/live/46532865581595496/1593574628/104311.ts
+#EXTINF:-1 tvg-id="" tvg-name="MYZEN NATURE" tvg-logo="" group-title="FRANCE HD",MYZEN NATURE
+http://tvplay.one:80/live/46532865581595496/1593574628/104314.ts
+#EXTINF:-1 tvg-id="IDF1.fr" tvg-name="IDF" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/france-sd/idf1.png" group-title="FRANCE HD",IDF
+http://tvplay.one:80/live/46532865581595496/1593574628/39404.ts
+#EXTINF:-1 tvg-id="TeleBocal.fr" tvg-name="TELE BOCAL |CANAL 31|" tvg-logo="" group-title="FRANCE HD",TELE BOCAL |CANAL 31|
+http://tvplay.one:80/live/46532865581595496/1593574628/107180.ts
+#EXTINF:-1 tvg-id="ViaGrandParis.fr" tvg-name="FIGARO TV IDF" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/museumtvparis.png" group-title="FRANCE HD",FIGARO TV IDF
+http://tvplay.one:80/live/46532865581595496/1593574628/81041.ts
+#EXTINF:-1 tvg-id="" tvg-name="LE FIGARO LIVE " tvg-logo="" group-title="FRANCE HD",LE FIGARO LIVE 
+http://tvplay.one:80/live/46532865581595496/1593574628/98725.ts
+#EXTINF:-1 tvg-id="TV7 Bordeaux" tvg-name="TV7 Bordeaux HD" tvg-logo="" group-title="FRANCE HD",TV7 Bordeaux HD
+http://tvplay.one:80/live/46532865581595496/1593574628/35140.ts
+#EXTINF:-1 tvg-id="TVPI.fr" tvg-name="TVPI " tvg-logo="" group-title="FRANCE HD",TVPI 
+http://tvplay.one:80/live/46532865581595496/1593574628/99363.ts
+#EXTINF:-1 tvg-id="" tvg-name="NA TV" tvg-logo="https://natv.fr/wp-content/uploads/sites/4/2022/10/NA-TV_250X250.png" group-title="FRANCE HD",NA TV
+http://tvplay.one:80/live/46532865581595496/1593574628/100722.ts
+#EXTINF:-1 tvg-id="TV-Vendee.fr" tvg-name="TV VENDÉE" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/tvvende%c3%a9.png" group-title="FRANCE HD",TV VENDÉE
+http://tvplay.one:80/live/46532865581595496/1593574628/50975.ts
+#EXTINF:-1 tvg-id="" tvg-name="TÉBÉO HD " tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/TEBEO.png" group-title="FRANCE HD",TÉBÉO HD 
+http://tvplay.one:80/live/46532865581595496/1593574628/35732.ts
+#EXTINF:-1 tvg-id="" tvg-name="MOSELLE TV" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/VIAMIRABELLE.png" group-title="FRANCE HD",MOSELLE TV
+http://tvplay.one:80/live/46532865581595496/1593574628/35734.ts
+#EXTINF:-1 tvg-id="Tebeo.fr" tvg-name="TÉBÉSUD HD " tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/TEBESUD.png" group-title="FRANCE HD",TÉBÉSUD HD 
+http://tvplay.one:80/live/46532865581595496/1593574628/35766.ts
+#EXTINF:-1 tvg-id="" tvg-name="BIP TV HD " tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/biptv.png" group-title="FRANCE HD",BIP TV HD 
+http://tvplay.one:80/live/46532865581595496/1593574628/35774.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV3V HD " tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/tv3v.png" group-title="FRANCE HD",TV3V HD 
+http://tvplay.one:80/live/46532865581595496/1593574628/35829.ts
+#EXTINF:-1 tvg-id="weo.fr" tvg-name="WÉO NORD " tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/france-sd/weo.png" group-title="FRANCE HD",WÉO NORD 
+http://tvplay.one:80/live/46532865581595496/1593574628/36178.ts
+#EXTINF:-1 tvg-id="WeoPicardie.fr" tvg-name="WÉO PICARDIE " tvg-logo="" group-title="FRANCE HD",WÉO PICARDIE 
+http://tvplay.one:80/live/46532865581595496/1593574628/58507.ts
+#EXTINF:-1 tvg-id="" tvg-name="MONACO INFO" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/monacoinfo.png" group-title="FRANCE HD",MONACO INFO
+http://tvplay.one:80/live/46532865581595496/1593574628/41699.ts
+#EXTINF:-1 tvg-id="" tvg-name="Via MaTele" tvg-logo="https://viamatele.tv/fileadmin/via_main/img/logos/viaMATELE-header.png" group-title="FRANCE HD",Via MaTele
+http://tvplay.one:80/live/46532865581595496/1593574628/51084.ts
+#EXTINF:-1 tvg-id="C449.api.telerama.fr" tvg-name="TELESUD" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/telesud.png" group-title="FRANCE HD",TELESUD
+http://tvplay.one:80/live/46532865581595496/1593574628/51319.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV78" tvg-logo="https://compagnieaffable.files.wordpress.com/2018/06/logo-tv78.png" group-title="FRANCE HD",TV78
+http://tvplay.one:80/live/46532865581595496/1593574628/38950.ts
+#EXTINF:-1 tvg-id="Kto.fr" tvg-name="KTO HD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/KTO.png" group-title="FRANCE HD",KTO HD
+http://tvplay.one:80/live/46532865581595496/1593574628/2350.ts
+#EXTINF:-1 tvg-id="canal32.fr" tvg-name="CANAL 32" tvg-logo="" group-title="FRANCE HD",CANAL 32
+http://tvplay.one:80/live/46532865581595496/1593574628/80145.ts
+#EXTINF:-1 tvg-id="" tvg-name="MARITIMA TV" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/maritimatv.png" group-title="FRANCE HD",MARITIMA TV
+http://tvplay.one:80/live/46532865581595496/1593574628/81026.ts
+#EXTINF:-1 tvg-id="" tvg-name="TV8 MOSELLE " tvg-logo="http://apimg.in/pubs/december2020/30-10-21/tv8moselle2.png" group-title="FRANCE HD",TV8 MOSELLE 
+http://tvplay.one:80/live/46532865581595496/1593574628/81028.ts
+#EXTINF:-1 tvg-id="tv8montblanc.fr" tvg-name="TV8 MONT-BLANC" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/montblanc.png" group-title="FRANCE HD",TV8 MONT-BLANC
+http://tvplay.one:80/live/46532865581595496/1593574628/57903.ts
+#EXTINF:-1 tvg-id="" tvg-name="VIA OCCITANIE" tvg-logo="" group-title="FRANCE HD",VIA OCCITANIE
+http://tvplay.one:80/live/46532865581595496/1593574628/90234.ts
+#EXTINF:-1 tvg-id="TVR35" tvg-name="TVR 35 RENNES" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/tvr.png" group-title="FRANCE HD",TVR 35 RENNES
+http://tvplay.one:80/live/46532865581595496/1593574628/57904.ts
+#EXTINF:-1 tvg-id="" tvg-name="VOSGES TV" tvg-logo="" group-title="FRANCE HD",VOSGES TV
+http://tvplay.one:80/live/46532865581595496/1593574628/75456.ts
+#EXTINF:-1 tvg-id="demaintv.fr" tvg-name="DEMAIN! IDF" tvg-logo="" group-title="FRANCE HD",DEMAIN! IDF
+http://tvplay.one:80/live/46532865581595496/1593574628/93456.ts
+#EXTINF:-1 tvg-id="CanalPlusFoot.fr" tvg-name="MAURIENNE TV" tvg-logo="" group-title="FRANCE HD",MAURIENNE TV
+http://tvplay.one:80/live/46532865581595496/1593574628/105690.ts
+#EXTINF:-1 tvg-id="7ALimoges.fr" tvg-name="7 à Limoges" tvg-logo="" group-title="FRANCE HD",7 à Limoges
+http://tvplay.one:80/live/46532865581595496/1593574628/105691.ts
+#EXTINF:-1 tvg-id="" tvg-name="Alpe D’Huez Télévision" tvg-logo="" group-title="FRANCE HD",Alpe D’Huez Télévision
+http://tvplay.one:80/live/46532865581595496/1593574628/42702.ts
+#EXTINF:-1 tvg-id="LyonTV.fr" tvg-name="LYON CAPITALE TV" tvg-logo="" group-title="FRANCE HD",LYON CAPITALE TV
+http://tvplay.one:80/live/46532865581595496/1593574628/93459.ts
+#EXTINF:-1 tvg-id="" tvg-name="TL7 " tvg-logo="" group-title="FRANCE HD",TL7 
+http://tvplay.one:80/live/46532865581595496/1593574628/97213.ts
+#EXTINF:-1 tvg-id="TV2Com.fr" tvg-name="TV2COM " tvg-logo="" group-title="FRANCE HD",TV2COM 
+http://tvplay.one:80/live/46532865581595496/1593574628/97233.ts
+#EXTINF:-1 tvg-id="" tvg-name="PUISSANCE TV " tvg-logo="http://128.199.43.91/pubs/2022/ptv.png" group-title="FRANCE HD",PUISSANCE TV 
+http://tvplay.one:80/live/46532865581595496/1593574628/58469.ts
+#EXTINF:-1 tvg-id="TeleGohelle.fr" tvg-name="TÉLÉ GOHELLE " tvg-logo="http://128.199.43.91/pubs/2022/tele.png" group-title="FRANCE HD",TÉLÉ GOHELLE 
+http://tvplay.one:80/live/46532865581595496/1593574628/58463.ts
+#EXTINF:-1 tvg-id="france3nouvelleaquitaine.fr" tvg-name="FRANCE 3 NOA " tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 NOA 
+http://tvplay.one:80/live/46532865581595496/1593574628/41565.ts
+#EXTINF:-1 tvg-id="France3Aquitaine.fr" tvg-name="FRANCE 3 AQUITAINE " tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 AQUITAINE 
+http://tvplay.one:80/live/46532865581595496/1593574628/70031.ts
+#EXTINF:-1 tvg-id="France3Corse.fr" tvg-name="FRANCE 3 CORSE VIA STELLA" tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 CORSE VIA STELLA
+http://tvplay.one:80/live/46532865581595496/1593574628/71553.ts
+#EXTINF:-1 tvg-id="France3Rhone-Alpes.fr" tvg-name="FRANCE 3 RHÔNE-APLES" tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 RHÔNE-APLES
+http://tvplay.one:80/live/46532865581595496/1593574628/70033.ts
+#EXTINF:-1 tvg-id="France3Alsace.fr" tvg-name="FRANCE 3 ALSACE" tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 ALSACE
+http://tvplay.one:80/live/46532865581595496/1593574628/58576.ts
+#EXTINF:-1 tvg-id="France3Nord-PasDeCalais.fr" tvg-name="FRANCE 3 NORD" tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 NORD
+http://tvplay.one:80/live/46532865581595496/1593574628/58575.ts
+#EXTINF:-1 tvg-id="France3Paris-IdF.fr" tvg-name="FRANCE 3 PARIS" tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 PARIS
+http://tvplay.one:80/live/46532865581595496/1593574628/71551.ts
+#EXTINF:-1 tvg-id="France3Bretagne.fr" tvg-name="FRANCE 3 BRETAGNE " tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 BRETAGNE 
+http://tvplay.one:80/live/46532865581595496/1593574628/99110.ts
+#EXTINF:-1 tvg-id="France3Bourgogne.fr" tvg-name="FRANCE 3 BOURGOGNE" tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 BOURGOGNE
+http://tvplay.one:80/live/46532865581595496/1593574628/99700.ts
+#EXTINF:-1 tvg-id="France3Midi-Pyrenees.fr" tvg-name="FRANCE 3 MIDI PYRENEES" tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 MIDI PYRENEES
+http://tvplay.one:80/live/46532865581595496/1593574628/99699.ts
+#EXTINF:-1 tvg-id="France3Provence-Alpes.fr" tvg-name="FRANCE 3 PROVINCE-ALPES" tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 PROVINCE-ALPES
+http://tvplay.one:80/live/46532865581595496/1593574628/71552.ts
+#EXTINF:-1 tvg-id="France3Picardie.fr" tvg-name="FRANCE 3 PICARDIE" tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 PICARDIE
+http://tvplay.one:80/live/46532865581595496/1593574628/71554.ts
+#EXTINF:-1 tvg-id="France3Languedoc.fr" tvg-name="France 3 LANGUEDOC " tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",France 3 LANGUEDOC 
+http://tvplay.one:80/live/46532865581595496/1593574628/71555.ts
+#EXTINF:-1 tvg-id="France3PaysDeLaLoire.fr" tvg-name="FRANCE 3 LA LOIRE" tvg-logo="http://apimg.in/picons/NEW2022/france3.png" group-title="FRANCE HD",FRANCE 3 LA LOIRE
+http://tvplay.one:80/live/46532865581595496/1593574628/83997.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANALVOD PLAY 1" tvg-logo="http://128.199.43.91/pubs/2022/canalvod.png" group-title="FRANCE HD",CANALVOD PLAY 1
+http://tvplay.one:80/live/46532865581595496/1593574628/1613.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANALVOD PLAY 2" tvg-logo="http://128.199.43.91/pubs/2022/canalvod.png" group-title="FRANCE HD",CANALVOD PLAY 2
+http://tvplay.one:80/live/46532865581595496/1593574628/1614.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANALVOD PLAY 3" tvg-logo="http://128.199.43.91/pubs/2022/canalvod.png" group-title="FRANCE HD",CANALVOD PLAY 3
+http://tvplay.one:80/live/46532865581595496/1593574628/93455.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANALVOD PLAY 4" tvg-logo="http://128.199.43.91/pubs/2022/canalvod.png" group-title="FRANCE HD",CANALVOD PLAY 4
+http://tvplay.one:80/live/46532865581595496/1593574628/2192.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANALVOD PLAY 5" tvg-logo="http://128.199.43.91/pubs/2022/canalvod.png" group-title="FRANCE HD",CANALVOD PLAY 5
+http://tvplay.one:80/live/46532865581595496/1593574628/2191.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANALVOD PLAY 6" tvg-logo="http://128.199.43.91/pubs/2022/canalvod.png" group-title="FRANCE HD",CANALVOD PLAY 6
+http://tvplay.one:80/live/46532865581595496/1593574628/2190.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANALVOD PLAY 7" tvg-logo="http://128.199.43.91/pubs/2022/canalvod.png" group-title="FRANCE HD",CANALVOD PLAY 7
+http://tvplay.one:80/live/46532865581595496/1593574628/2189.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANALVOD PLAY 8" tvg-logo="http://128.199.43.91/pubs/2022/canalvod.png" group-title="FRANCE HD",CANALVOD PLAY 8
+http://tvplay.one:80/live/46532865581595496/1593574628/2188.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANALVOD PLAY 9" tvg-logo="http://128.199.43.91/pubs/2022/canalvod.png" group-title="FRANCE HD",CANALVOD PLAY 9
+http://tvplay.one:80/live/46532865581595496/1593574628/102.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANALVOD PLAY 10" tvg-logo="http://128.199.43.91/pubs/2022/canalvod.png" group-title="FRANCE HD",CANALVOD PLAY 10
+http://tvplay.one:80/live/46532865581595496/1593574628/101.ts
+#EXTINF:-1 tvg-id="DriveInMovieChannel.fr" tvg-name="DRIVE IN MOVIES " tvg-logo="http://128.199.43.91/pubs/2022/drivein.png" group-title="FRANCE HD",DRIVE IN MOVIES 
+http://tvplay.one:80/live/46532865581595496/1593574628/99088.ts
+#EXTINF:-1 tvg-id="CHBC3100001SW" tvg-name="CINÉ PRIME " tvg-logo="" group-title="FRANCE HD",CINÉ PRIME 
+http://tvplay.one:80/live/46532865581595496/1593574628/99413.ts
+#EXTINF:-1 tvg-id="FRBA2200008H8" tvg-name="UNIVERS CINÉ " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/univers1.png" group-title="FRANCE HD",UNIVERS CINÉ 
+http://tvplay.one:80/live/46532865581595496/1593574628/70475.ts
+#EXTINF:-1 tvg-id="FRBA3300021ME" tvg-name="WILDSIDE TV" tvg-logo="" group-title="FRANCE HD",WILDSIDE TV
+http://tvplay.one:80/live/46532865581595496/1593574628/73917.ts
+#EXTINF:-1 tvg-id="FRBA2200010VN" tvg-name="MY TIME " tvg-logo="https://mytimemovienetwork.com/wp-content/uploads/2020/09/logo-white.png" group-title="FRANCE HD",MY TIME 
+http://tvplay.one:80/live/46532865581595496/1593574628/71487.ts
+#EXTINF:-1 tvg-id="CHBB3400001IU" tvg-name="EMOTION'L" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/53/FRBB340000115_20210908T010147.png" group-title="FRANCE HD",EMOTION'L
+http://tvplay.one:80/live/46532865581595496/1593574628/78496.ts
+#EXTINF:-1 tvg-id="CHBB3900007I2" tvg-name="CINÉ NANAR " tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/cine.png" group-title="FRANCE HD",CINÉ NANAR 
+http://tvplay.one:80/live/46532865581595496/1593574628/80410.ts
+#EXTINF:-1 tvg-id="FRBA1000009KO" tvg-name="BREF CINEMA " tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/07/80/FRBA1000009KO_20211208T015346.png" group-title="FRANCE HD",BREF CINEMA 
+http://tvplay.one:80/live/46532865581595496/1593574628/86533.ts
+#EXTINF:-1 tvg-id="" tvg-name="SCREAM'IN" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/02/45/FRBB4600002K5_20211208T015351.png" group-title="FRANCE HD",SCREAM'IN
+http://tvplay.one:80/live/46532865581595496/1593574628/86625.ts
+#EXTINF:-1 tvg-id="" tvg-name="RUNTIME " tvg-logo="" group-title="FRANCE HD",RUNTIME 
+http://tvplay.one:80/live/46532865581595496/1593574628/90561.ts
+#EXTINF:-1 tvg-id="" tvg-name="SOFY TV" tvg-logo="" group-title="FRANCE HD",SOFY TV
+http://tvplay.one:80/live/46532865581595496/1593574628/58491.ts
+#EXTINF:-1 tvg-id="FRAJ4500023UP" tvg-name="RAKUTEN TV ACTION" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV ACTION
+http://tvplay.one:80/live/46532865581595496/1593574628/67513.ts
+#EXTINF:-1 tvg-id="FRAJ4500024MR" tvg-name="RAKUTEN TV COMEDIE" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV COMEDIE
+http://tvplay.one:80/live/46532865581595496/1593574628/67514.ts
+#EXTINF:-1 tvg-id="FRAJ4500025AN" tvg-name="RAKUTEN TV DRAME" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV DRAME
+http://tvplay.one:80/live/46532865581595496/1593574628/67515.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV SPOTLIGHT" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV SPOTLIGHT
+http://tvplay.one:80/live/46532865581595496/1593574628/67516.ts
+#EXTINF:-1 tvg-id="FRBA3300026BR" tvg-name="RAKUTEN TV FAMILLE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV FAMILLE 
+http://tvplay.one:80/live/46532865581595496/1593574628/67537.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV SHOW" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV SHOW
+http://tvplay.one:80/live/46532865581595496/1593574628/67688.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV FILMS FRANÇAIS " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV FILMS FRANÇAIS 
+http://tvplay.one:80/live/46532865581595496/1593574628/69150.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV THRILLER " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV THRILLER 
+http://tvplay.one:80/live/46532865581595496/1593574628/75558.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV ROMANCE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV ROMANCE 
+http://tvplay.one:80/live/46532865581595496/1593574628/75559.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV TOP FILMS" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/rakutentv.png" group-title="FRANCE HD",RAKUTEN TV TOP FILMS
+http://tvplay.one:80/live/46532865581595496/1593574628/75560.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV TOP FILMS 2" tvg-logo="" group-title="FRANCE HD",RAKUTEN TV TOP FILMS 2
+http://tvplay.one:80/live/46532865581595496/1593574628/110063.ts
+#EXTINF:-1 tvg-id="" tvg-name="RAKUTEN TV ACTION 2" tvg-logo="" group-title="FRANCE HD",RAKUTEN TV ACTION 2
+http://tvplay.one:80/live/46532865581595496/1593574628/110064.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMRISE SÉRIES " tvg-logo="http://128.199.43.91/pubs/2022/filmrise.png" group-title="FRANCE HD",FILMRISE SÉRIES 
+http://tvplay.one:80/live/46532865581595496/1593574628/58460.ts
+#EXTINF:-1 tvg-id="" tvg-name="FILMRISE BINGE " tvg-logo="http://128.199.43.91/pubs/2022/binge.png" group-title="FRANCE HD",FILMRISE BINGE 
+http://tvplay.one:80/live/46532865581595496/1593574628/58459.ts
+#EXTINF:-1 tvg-id="6304f115fa5b2d00078cff6b" tvg-name="PLUTO TV #1" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV #1
+http://tvplay.one:80/live/46532865581595496/1593574628/107522.ts
+#EXTINF:-1 tvg-id="5f8ed0f17564a300082b676a" tvg-name="PLUTO TV CINÉ " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV CINÉ 
+http://tvplay.one:80/live/46532865581595496/1593574628/67817.ts
+#EXTINF:-1 tvg-id="5f8ed168f72fcd0007e56269" tvg-name="PLUTO TV CINÉ RETRO " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV CINÉ RETRO 
+http://tvplay.one:80/live/46532865581595496/1593574628/67818.ts
+#EXTINF:-1 tvg-id="5f8ed1ff5c39700007e2204a" tvg-name="PLUTO TV ACTION " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV ACTION 
+http://tvplay.one:80/live/46532865581595496/1593574628/67819.ts
+#EXTINF:-1 tvg-id="62f3e2d000418d00070f7dbc" tvg-name="PLUTO CINÉ D'ASIE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO CINÉ D'ASIE 
+http://tvplay.one:80/live/46532865581595496/1593574628/108891.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO FRENCH COLLECTION " tvg-logo="http://128.199.43.91/pubs/2022/plutofrench.png" group-title="FRANCE HD",PLUTO FRENCH COLLECTION 
+http://tvplay.one:80/live/46532865581595496/1593574628/100724.ts
+#EXTINF:-1 tvg-id="5f8ed2d1c34c2300073bf02c" tvg-name="PLUTO TV SERIES" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV SERIES
+http://tvplay.one:80/live/46532865581595496/1593574628/67820.ts
+#EXTINF:-1 tvg-id="5f8eb91bb9b9e7000817e67f" tvg-name="PLUTO TV COMÉDIE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV COMÉDIE 
+http://tvplay.one:80/live/46532865581595496/1593574628/67821.ts
+#EXTINF:-1 tvg-id="5f914f9dccb4de0007df8bc4" tvg-name="PLUTO TV NOVELAS " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV NOVELAS 
+http://tvplay.one:80/live/46532865581595496/1593574628/67823.ts
+#EXTINF:-1 tvg-id="5f8ed4dbf6bb0800071ffbcb" tvg-name="PLUTO TV POLAR" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV POLAR
+http://tvplay.one:80/live/46532865581595496/1593574628/67822.ts
+#EXTINF:-1 tvg-id="60c3472a51a2050008dad272" tvg-name="PLUTO TV THRILLERS" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV THRILLERS
+http://tvplay.one:80/live/46532865581595496/1593574628/78440.ts
+#EXTINF:-1 tvg-id="60d35a74c63c3c0008df6a90" tvg-name="PLUTO BBC DRAMA" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO BBC DRAMA
+http://tvplay.one:80/live/46532865581595496/1593574628/78901.ts
+#EXTINF:-1 tvg-id="60c34592c911890007f29a73" tvg-name="PLUTO TV SCI-FI" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV SCI-FI
+http://tvplay.one:80/live/46532865581595496/1593574628/78441.ts
+#EXTINF:-1 tvg-id="5f914f4b36d67d0007a91a04" tvg-name="PLUTO TV INVESTIGATION " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV INVESTIGATION 
+http://tvplay.one:80/live/46532865581595496/1593574628/67842.ts
+#EXTINF:-1 tvg-id="5f8ed58b2db26f0007b4aa73" tvg-name="PLUTO TV NATURE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV NATURE 
+http://tvplay.one:80/live/46532865581595496/1593574628/70474.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO NATURE TIME " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO NATURE TIME 
+http://tvplay.one:80/live/46532865581595496/1593574628/97194.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO HISTOIRE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO HISTOIRE 
+http://tvplay.one:80/live/46532865581595496/1593574628/81040.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO VOYAGE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO VOYAGE 
+http://tvplay.one:80/live/46532865581595496/1593574628/90956.ts
+#EXTINF:-1 tvg-id="5f8ed3892ed7bb000741a1d2" tvg-name="PLUTO TV INSIDE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV INSIDE 
+http://tvplay.one:80/live/46532865581595496/1593574628/67843.ts
+#EXTINF:-1 tvg-id="5f8ed48146ba9e00078424b6" tvg-name="PLUTO TV CUISINE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV CUISINE 
+http://tvplay.one:80/live/46532865581595496/1593574628/67536.ts
+#EXTINF:-1 tvg-id="5f8eb7e3d2ed18000746d09a" tvg-name="PLUTO TV TEEN" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV TEEN
+http://tvplay.one:80/live/46532865581595496/1593574628/67844.ts
+#EXTINF:-1 tvg-id="5f8eb99ff17815000784a3b0" tvg-name="PLUTO TV KIDS SERIES " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV KIDS SERIES 
+http://tvplay.one:80/live/46532865581595496/1593574628/67845.ts
+#EXTINF:-1 tvg-id="5f8eba14a4ffb8000764e950" tvg-name="PLUTO TV KIDS " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV KIDS 
+http://tvplay.one:80/live/46532865581595496/1593574628/67846.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO RETRO TOONS " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO RETRO TOONS 
+http://tvplay.one:80/live/46532865581595496/1593574628/108468.ts
+#EXTINF:-1 tvg-id="5f8ecb336537e8000764a17f" tvg-name="PLUTO TV JUNIOR " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV JUNIOR 
+http://tvplay.one:80/live/46532865581595496/1593574628/67847.ts
+#EXTINF:-1 tvg-id="5f92b625c1ffbc0007e60c37" tvg-name="PLUTO TV KIDS COLLECTION " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV KIDS COLLECTION 
+http://tvplay.one:80/live/46532865581595496/1593574628/67848.ts
+#EXTINF:-1 tvg-id="5f8eccd81062c300078a11df" tvg-name="PLUTO TV GAMING " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV GAMING 
+http://tvplay.one:80/live/46532865581595496/1593574628/67849.ts
+#EXTINF:-1 tvg-id="5f8ed5fba4ffb8000764ea01" tvg-name="PLUTO PLUS BELLE LA VIE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO PLUS BELLE LA VIE 
+http://tvplay.one:80/live/46532865581595496/1593574628/70472.ts
+#EXTINF:-1 tvg-id="5f92b56a367e170007cd43f4" tvg-name="PLUTO TV MTV" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV MTV
+http://tvplay.one:80/live/46532865581595496/1593574628/70473.ts
+#EXTINF:-1 tvg-id="60812fc8539963000707d1e1" tvg-name="PLUTO TV ROMANCE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV ROMANCE 
+http://tvplay.one:80/live/46532865581595496/1593574628/71484.ts
+#EXTINF:-1 tvg-id="60803e541a829e0008e91641" tvg-name="PLUTO TV YOGA " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV YOGA 
+http://tvplay.one:80/live/46532865581595496/1593574628/73071.ts
+#EXTINF:-1 tvg-id="6081310e48d3200007afaf3b" tvg-name="PLUTO TV SPORT " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV SPORT 
+http://tvplay.one:80/live/46532865581595496/1593574628/73865.ts
+#EXTINF:-1 tvg-id="60817e1aa6997500072d0d6d" tvg-name="PLUTO TV MOTORS " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV MOTORS 
+http://tvplay.one:80/live/46532865581595496/1593574628/74269.ts
+#EXTINF:-1 tvg-id="6092544e7639460007d4835e" tvg-name="PLUTO TV DATING " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV DATING 
+http://tvplay.one:80/live/46532865581595496/1593574628/74325.ts
+#EXTINF:-1 tvg-id="60925a44f0350600075a1fdc" tvg-name="PLUTO TV ANIMAUX" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV ANIMAUX
+http://tvplay.one:80/live/46532865581595496/1593574628/74677.ts
+#EXTINF:-1 tvg-id="60b4d6c806ad2a00073b3108" tvg-name="PLUTO WILDSIDE" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO WILDSIDE
+http://tvplay.one:80/live/46532865581595496/1593574628/80595.ts
+#EXTINF:-1 tvg-id="60f165cd4e33aa0007481782" tvg-name="PLUTO FUEL TV" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO FUEL TV
+http://tvplay.one:80/live/46532865581595496/1593574628/80833.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO SERIES FANTASTIQUE " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO SERIES FANTASTIQUE 
+http://tvplay.one:80/live/46532865581595496/1593574628/98632.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO REALITY " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO REALITY 
+http://tvplay.one:80/live/46532865581595496/1593574628/98633.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO SOS SECOURS " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO SOS SECOURS 
+http://tvplay.one:80/live/46532865581595496/1593574628/83999.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO THE ASYLUM " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO THE ASYLUM 
+http://tvplay.one:80/live/46532865581595496/1593574628/87393.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO SOUTH PARK " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO SOUTH PARK 
+http://tvplay.one:80/live/46532865581595496/1593574628/88690.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO TV LIVE CONCERT " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO TV LIVE CONCERT 
+http://tvplay.one:80/live/46532865581595496/1593574628/74324.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO CLASSIC HIPHOP" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO CLASSIC HIPHOP
+http://tvplay.one:80/live/46532865581595496/1593574628/98740.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO GLOIRE ET BEAUTÉ " tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO GLOIRE ET BEAUTÉ 
+http://tvplay.one:80/live/46532865581595496/1593574628/89243.ts
+#EXTINF:-1 tvg-id="60afb203ec391c00070ea1bf" tvg-name="GENERATION SITCOMS" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",GENERATION SITCOMS
+http://tvplay.one:80/live/46532865581595496/1593574628/80367.ts
+#EXTINF:-1 tvg-id="FRBA3300022OA" tvg-name="TELEVISA NOVELAS " tvg-logo="http://128.199.43.91/pubs/2022/televisa.png" group-title="FRANCE HD",TELEVISA NOVELAS 
+http://tvplay.one:80/live/46532865581595496/1593574628/67687.ts
+#EXTINF:-1 tvg-id="FRBC14000010C" tvg-name="TELE.NOVELA" tvg-logo="http://128.199.43.91/pubs/2022/telenovela.png" group-title="FRANCE HD",TELE.NOVELA
+http://tvplay.one:80/live/46532865581595496/1593574628/97232.ts
+#EXTINF:-1 tvg-id="CHBC800006EP" tvg-name="FREQUENCE NOVELAS " tvg-logo="http://128.199.43.91/pubs/2022/frequence.png" group-title="FRANCE HD",FREQUENCE NOVELAS 
+http://tvplay.one:80/live/46532865581595496/1593574628/94922.ts
+#EXTINF:-1 tvg-id="FRBA3300031ZC" tvg-name="STORMCAST NOVELAS " tvg-logo="http://128.199.43.91/pubs/2022/novelas.png" group-title="FRANCE HD",STORMCAST NOVELAS 
+http://tvplay.one:80/live/46532865581595496/1593574628/86436.ts
+#EXTINF:-1 tvg-id="5f92b5ba040eaa0007074d0a" tvg-name="BET CLASSICS" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",BET CLASSICS
+http://tvplay.one:80/live/46532865581595496/1593574628/75781.ts
+#EXTINF:-1 tvg-id="60afa1508284e60007163c08" tvg-name="Just Pour Rire" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",Just Pour Rire
+http://tvplay.one:80/live/46532865581595496/1593574628/75422.ts
+#EXTINF:-1 tvg-id="CHBB3900006JN" tvg-name="CHEF CLUB TV " tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/68/FRBB3900001PZ_20211208T015348.png" group-title="FRANCE HD",CHEF CLUB TV 
+http://tvplay.one:80/live/46532865581595496/1593574628/86534.ts
+#EXTINF:-1 tvg-id="" tvg-name="SECRET STORY " tvg-logo="" group-title="FRANCE HD",SECRET STORY 
+http://tvplay.one:80/live/46532865581595496/1593574628/99726.ts
+#EXTINF:-1 tvg-id="" tvg-name="MASTER CHEF " tvg-logo="" group-title="FRANCE HD",MASTER CHEF 
+http://tvplay.one:80/live/46532865581595496/1593574628/99727.ts
+#EXTINF:-1 tvg-id="" tvg-name="ENQUÊTE DE CHOC LA CHAINE" tvg-logo="" group-title="FRANCE HD",ENQUÊTE DE CHOC LA CHAINE
+http://tvplay.one:80/live/46532865581595496/1593574628/99728.ts
+#EXTINF:-1 tvg-id="" tvg-name="TRAILERS " tvg-logo="" group-title="FRANCE HD",TRAILERS 
+http://tvplay.one:80/live/46532865581595496/1593574628/100580.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO K-POP" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/plutotv.png" group-title="FRANCE HD",PLUTO K-POP
+http://tvplay.one:80/live/46532865581595496/1593574628/102512.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUN RADIO TV" tvg-logo="" group-title="FRANCE HD",FUN RADIO TV
+http://tvplay.one:80/live/46532865581595496/1593574628/102836.ts
+#EXTINF:-1 tvg-id="" tvg-name="ÉMOTION " tvg-logo="" group-title="FRANCE HD",ÉMOTION 
+http://tvplay.one:80/live/46532865581595496/1593574628/94923.ts
+#EXTINF:-1 tvg-id="" tvg-name="LES 30 HISTOIRES " tvg-logo="" group-title="FRANCE HD",LES 30 HISTOIRES 
+http://tvplay.one:80/live/46532865581595496/1593574628/102881.ts
+#EXTINF:-1 tvg-id="" tvg-name="LOVE THE PLANET" tvg-logo="" group-title="FRANCE HD",LOVE THE PLANET
+http://tvplay.one:80/live/46532865581595496/1593574628/109289.ts
+#EXTINF:-1 tvg-id="" tvg-name="PLUTO INSTANT SAGA " tvg-logo="" group-title="FRANCE HD",PLUTO INSTANT SAGA 
+http://tvplay.one:80/live/46532865581595496/1593574628/110208.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TF1.png" group-title="FRANCE FHD",TF1 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/94.ts
+#EXTINF:-1 tvg-id="france2.fr" tvg-name="FRANCE 2 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE2.png" group-title="FRANCE FHD",FRANCE 2 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/139.ts
+#EXTINF:-1 tvg-id="france3.fr" tvg-name="FRANCE 3 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE3.png" group-title="FRANCE FHD",FRANCE 3 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/137.ts
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="CANAL+ FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CANALplus.png" group-title="FRANCE FHD",CANAL+ FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/170.ts
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="FRANCE 5 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE5.png" group-title="FRANCE FHD",FRANCE 5 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/113.ts
+#EXTINF:-1 tvg-id="m6.fr" tvg-name="M6 FHD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/m6fhd.png" group-title="FRANCE FHD",M6 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/378.ts
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="ARTE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/ARTE.png" group-title="FRANCE FHD",ARTE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/145.ts
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="C8 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/C8.png" group-title="FRANCE FHD",C8 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/171.ts
+#EXTINF:-1 tvg-id="w9.fr" tvg-name="W9 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/W9.png" group-title="FRANCE FHD",W9 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/91.ts
+#EXTINF:-1 tvg-id="tmc.fr" tvg-name="TMC FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TMC.png" group-title="FRANCE FHD",TMC FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/93.ts
+#EXTINF:-1 tvg-id="tfx.fr" tvg-name="TFX FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TFX.png" group-title="FRANCE FHD",TFX FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/127.ts
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NRJ 12 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/NRJ12.png" group-title="FRANCE FHD",NRJ 12 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1647.ts
+#EXTINF:-1 tvg-id="tf1seriesfilms.fr" tvg-name="TF1 SERIES & FILMS FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TF1FILMSSERIES.png" group-title="FRANCE FHD",TF1 SERIES & FILMS FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/134.ts
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CSTAR.png" group-title="FRANCE FHD",CSTAR FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/157.ts
+#EXTINF:-1 tvg-id="france4.fr" tvg-name="FRANCE 4 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE4.png" group-title="FRANCE FHD",FRANCE 4 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/136.ts
+#EXTINF:-1 tvg-id="rmcstory.fr" tvg-name="RMC STORY FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/RMCSTORY.png" group-title="FRANCE FHD",RMC STORY FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2282.ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/6TER.png" group-title="FRANCE FHD",6TER FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/151.ts
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNEWS FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CNEWS.png" group-title="FRANCE FHD",CNEWS FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/132.ts
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/LCI.png" group-title="FRANCE FHD",LCI FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2286.ts
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="BFM TV FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/BFMTV.png" group-title="FRANCE FHD",BFM TV FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/131.ts
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/BFMBUSSINESS.png" group-title="FRANCE FHD",BFM BUSINESS FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1720.ts
+#EXTINF:-1 tvg-id="BFMParis.fr" tvg-name="BFM Paris FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/BFMPARIS.png" group-title="FRANCE FHD",BFM Paris FHD
+https://ncdn-live-bfm.pfd.sfr.net/shls/LIVE$BFM_PARIS/index.m3u8?&start=LIVE&end=END
+#EXTINF:-1 tvg-id="" tvg-name="BFM MARSEILLE FHD" tvg-logo="http://apimg.in/pubs/december2020/19-05-2021/bfmmarseille.png" group-title="FRANCE FHD",BFM MARSEILLE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/80834.ts
+#EXTINF:-1 tvg-id="" tvg-name="BFM NICE FHD" tvg-logo="" group-title="FRANCE FHD",BFM NICE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/80835.ts
+#EXTINF:-1 tvg-id="france24.fr" tvg-name="FRANCE 24 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/FRANCE24.png" group-title="FRANCE FHD",FRANCE 24 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/138.ts
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="EURONEWS FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/EURONEWS.png" group-title="FRANCE FHD",EURONEWS FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2284.ts
+#EXTINF:-1 tvg-id="franceinfo.fr" tvg-name="FRANCE INFO FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/FRANCEINFO.png" group-title="FRANCE FHD",FRANCE INFO FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/3180.ts
+#EXTINF:-1 tvg-id="C781.api.telerama.fr" tvg-name="I24 NEWS FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/I24NEWS.png" group-title="FRANCE FHD",I24 NEWS FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/15209.ts
+#EXTINF:-1 tvg-id="C124.api.telerama.fr" tvg-name="LA CHAINE METEO FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/LACHAINEMETEO.png" group-title="FRANCE FHD",LA CHAINE METEO FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/15219.ts
+#EXTINF:-1 tvg-id="lachaineparlementaire.fr" tvg-name="LCP FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/LACHAINEPARLEMENTAIRE.png" group-title="FRANCE FHD",LCP FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2287.ts
+#EXTINF:-1 tvg-id="Canal+Kids.fr" tvg-name="CANAL+ KIDS FHD " tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/canalpluskids1.png" group-title="FRANCE FHD",CANAL+ KIDS FHD 
+http://tvplay.one:80/live/46532865581595496/1593574628/168.ts
+#EXTINF:-1 tvg-id="Canal+Docs.fr" tvg-name="CANAL+ DOCS FHD " tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/canalplusdocs.png" group-title="FRANCE FHD",CANAL+ DOCS FHD 
+http://tvplay.one:80/live/46532865581595496/1593574628/78446.ts
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="CANAL+ SERIES FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CANALplusSERIES.png" group-title="FRANCE FHD",CANAL+ SERIES FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/122.ts
+#EXTINF:-1 tvg-id="CANAL+GrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN FHD" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/canalplusgrand.png" group-title="FRANCE FHD",CANAL+ GRAND ECRAN FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/52098.ts
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="CANAL+ CINEMA FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CANALplusCINEMA.png" group-title="FRANCE FHD",CANAL+ CINEMA FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/166.ts
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="CINE+ PREMIER FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CINEplusPREMIER.png" group-title="FRANCE FHD",CINE+ PREMIER FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/161.ts
+#EXTINF:-1 tvg-id="cineplusfrisson.fr" tvg-name="CINE+ FRISSON FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CINEplusFRISSON.png" group-title="FRANCE FHD",CINE+ FRISSON FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/162.ts
+#EXTINF:-1 tvg-id="cineplusamiz.fr" tvg-name="CINE+ FAMIZ FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CINEplusFAMIZ.png" group-title="FRANCE FHD",CINE+ FAMIZ FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/159.ts
+#EXTINF:-1 tvg-id="CinePlusEmotion.fr" tvg-name="CINE+ EMOTION FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CINEplusEMOTION.png" group-title="FRANCE FHD",CINE+ EMOTION FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/163.ts
+#EXTINF:-1 tvg-id="cineplusclassic.fr" tvg-name="CINE+ CLASSIC FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CINEplusCLASSIC.png" group-title="FRANCE FHD",CINE+ CLASSIC FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/121.ts
+#EXTINF:-1 tvg-id="cineplusclub.fr" tvg-name="CINE+ CLUB FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CINEplusCLUB.png" group-title="FRANCE FHD",CINE+ CLUB FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/13524.ts
+#EXTINF:-1 tvg-id="action.fr" tvg-name="ACTION FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/ACTION.png" group-title="FRANCE FHD",ACTION FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/150.ts
+#EXTINF:-1 tvg-id="paramountchannel.fr" tvg-name="PARAMOUNT FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/PARAMOUNTCHANNEL.png" group-title="FRANCE FHD",PARAMOUNT FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/126.ts
+#EXTINF:-1 tvg-id="ParamountChannelDecale.fr" tvg-name="PARAMOUNT DÉCALÉ FHD" tvg-logo="" group-title="FRANCE FHD",PARAMOUNT DÉCALÉ FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/104748.ts
+#EXTINF:-1 tvg-id="tcm.fr" tvg-name="TCM CINEMA FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TCMCINEMA.png" group-title="FRANCE FHD",TCM CINEMA FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1643.ts
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS GEANT FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/OCSGEANTS.png" group-title="FRANCE FHD",OCS GEANT FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/110.ts
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="OCS PULP FHD" tvg-logo="http://128.199.43.91/pubs/2022/ocspulp.png" group-title="FRANCE FHD",OCS PULP FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/112.ts
+#EXTINF:-1 tvg-id="ocsmax.fr" tvg-name="OCS MAX FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/OCSMAX.png" group-title="FRANCE FHD",OCS MAX FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/109.ts
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="SERIE CLUB FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/SERIECLUB.png" group-title="FRANCE FHD",SERIE CLUB FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1648.ts
+#EXTINF:-1 tvg-id="polarplus.fr" tvg-name="POLAR+ FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/POLARplus.png" group-title="FRANCE FHD",POLAR+ FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/10338.ts
+#EXTINF:-1 tvg-id="13eRue.fr" tvg-name="13EME RUE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/13EMERUE.png" group-title="FRANCE FHD",13EME RUE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/152.ts
+#EXTINF:-1 tvg-id="tvbreizh.fr" tvg-name="TV BREIZH FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TVBREIZH.png" group-title="FRANCE FHD",TV BREIZH FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/92.ts
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="SYFY FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/SYFY.png" group-title="FRANCE FHD",SYFY FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/95.ts
+#EXTINF:-1 tvg-id="warnertv.fr" tvg-name="WARNER TV FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/WARNERTV.png" group-title="FRANCE FHD",WARNER TV FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/13051.ts
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="PARIS PREMIERE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/PARISPREMIERE.png" group-title="FRANCE FHD",PARIS PREMIERE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/125.ts
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/RTL9.png" group-title="FRANCE FHD",RTL9 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2343.ts
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="TEVA FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TEVA.png" group-title="FRANCE FHD",TEVA FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1644.ts
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="AB1 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/AB1.png" group-title="FRANCE FHD",AB1 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2345.ts
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="COMEDIE + FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/COMEDIEplus.png" group-title="FRANCE FHD",COMEDIE + FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/158.ts
+#EXTINF:-1 tvg-id="comedycentral.fr" tvg-name="COMEDY CENTRAL FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/COMEDYCENTRAL.png" group-title="FRANCE FHD",COMEDY CENTRAL FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/29519.ts
+#EXTINF:-1 tvg-id="BET.fr" tvg-name="BET FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/BET.png" group-title="FRANCE FHD",BET FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/10815.ts
+#EXTINF:-1 tvg-id="olympia.fr" tvg-name="OLYMPIA TV  FHD " tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/OLYMPIA.png" group-title="FRANCE FHD",OLYMPIA TV  FHD 
+http://tvplay.one:80/live/46532865581595496/1593574628/37521.ts
+#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="E! FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/EENTERTAINEMENT.png" group-title="FRANCE FHD",E! FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2856.ts
+#EXTINF:-1 tvg-id="Trek.fr" tvg-name="TREK TV FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TREKTV.png" group-title="FRANCE FHD",TREK TV FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1719.ts
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="CHERIE 25 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CHERIE25.png" group-title="FRANCE FHD",CHERIE 25 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/164.ts
+#EXTINF:-1 tvg-id="lequipe21.fr" tvg-name="L'EQUIPE FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/lequipe.png" group-title="FRANCE FHD",L'EQUIPE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/143.ts
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="INFOSPORT+ FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/INFOSPORT.png" group-title="FRANCE FHD",INFOSPORT+ FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/133.ts
+#EXTINF:-1 tvg-id="eurosport1.fr" tvg-name="EUROSPORT 1 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/EUROSPORT1.png" group-title="FRANCE FHD",EUROSPORT 1 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/142.ts
+#EXTINF:-1 tvg-id="eurosport2.fr" tvg-name="EUROSPORT 2 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/EUROSPORT2.png" group-title="FRANCE FHD",EUROSPORT 2 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/114.ts
+#EXTINF:-1 tvg-id="Golf+.fr" tvg-name="GOLF+ FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/GOLFplus.png" group-title="FRANCE FHD",GOLF+ FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/135.ts
+#EXTINF:-1 tvg-id="sportenfrance.fr" tvg-name="SPORT EN FRANCE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-SPORTHD/SPORTENFRANCE.png" group-title="FRANCE FHD",SPORT EN FRANCE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/74272.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="EQUIDIA FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/EQUIDIALIVE.png" group-title="FRANCE FHD",EQUIDIA FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/144.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="AUTOMOTO LA CHAINE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/AUTOMOTO.png" group-title="FRANCE FHD",AUTOMOTO LA CHAINE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1616.ts
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAIA TV FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/USHUAIA.png" group-title="FRANCE FHD",USHUAIA TV FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/90.ts
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/SEASONS.png" group-title="FRANCE FHD",SEASONS FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/96.ts
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="SCIENCE & VIE TV FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/SCIENCESETVIE.png" group-title="FRANCE FHD",SCIENCE & VIE TV FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/97.ts
+#EXTINF:-1 tvg-id="animaux.fr" tvg-name="ANIMAUX FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/ANIMAUX.png" group-title="FRANCE FHD",ANIMAUX FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/149.ts
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="CHASSE ET PECHE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CHASSEEPECHE.png" group-title="FRANCE FHD",CHASSE ET PECHE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/165.ts
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="TOUTE L'HISTOIRE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TOUTELHISTOIRE.png" group-title="FRANCE FHD",TOUTE L'HISTOIRE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1645.ts
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV FHD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/histoiretv.png" group-title="FRANCE FHD",HISTOIRE TV FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2848.ts
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="PLANETE+ FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/PLANETplus.png" group-title="FRANCE FHD",PLANETE+ FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/609.ts
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="PLANETE+ AVENTURE FHD" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/planeteaventure.png" group-title="FRANCE FHD",PLANETE+ AVENTURE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/20775.ts
+#EXTINF:-1 tvg-id="planetecrimeinvestigation.fr" tvg-name="PLANETE+ CRIME FHD" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/planetecrime.png" group-title="FRANCE FHD",PLANETE+ CRIME FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/123.ts
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="CRIME DISTRICT FHD" tvg-logo="http://apimg.in/picons/NEW2022/crimedistrict.png" group-title="FRANCE FHD",CRIME DISTRICT FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/71556.ts
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="DISCOVERY INVESTIGATION FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQET-PORTUGAL/id.png" group-title="FRANCE FHD",DISCOVERY INVESTIGATION FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/5566.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="DISCOVERY SCIENCE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/DISCOVERYSCIENCE.png" group-title="FRANCE FHD",DISCOVERY SCIENCE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/120.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.fr" tvg-name="DISCOVERY FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/DISCOVERYCHANNEL.png" group-title="FRANCE FHD",DISCOVERY FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/156.ts
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="NATIONAL GEOGRAPHIC FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/NATGEO.png" group-title="FRANCE FHD",NATIONAL GEOGRAPHIC FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/128.ts
+#EXTINF:-1 tvg-id="natgeowild.fr" tvg-name="NAT GEO WILD FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/NATGEOWILD.png" group-title="FRANCE FHD",NAT GEO WILD FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/129.ts
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="RMC DECOUVERTE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/RMCDECOUVERTE.png" group-title="FRANCE FHD",RMC DECOUVERTE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/98.ts
+#EXTINF:-1 tvg-id="TV5.Europe.fr" tvg-name="TV5 MONDE FBS FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TV5MONDE.png" group-title="FRANCE FHD",TV5 MONDE FBS FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2285.ts
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="TELETOON+ FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TELETOONplus.png" group-title="FRANCE FHD",TELETOON+ FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/116.ts
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS FHD" tvg-logo="" group-title="FRANCE FHD",DREAMWORKS FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/104313.ts
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="TIJI FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TIJI.png" group-title="FRANCE FHD",TIJI FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/115.ts
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="GULLI FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/GULLI.png" group-title="FRANCE FHD",GULLI FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/117.ts
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="CARTOONITO FHD" tvg-logo="http://128.199.43.91/pubs/2022/cartonito.png" group-title="FRANCE FHD",CARTOONITO FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/119.ts
+#EXTINF:-1 tvg-id="PiwiPlus.fr" tvg-name="PIWI+ FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/PIWIplus.png" group-title="FRANCE FHD",PIWI+ FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/146.ts
+#EXTINF:-1 tvg-id="nickjr.fr" tvg-name="NICK JR FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/NICKJUNIOR.png" group-title="FRANCE FHD",NICK JR FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/147.ts
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="NICKELODEON FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/NICK.png" group-title="FRANCE FHD",NICKELODEON FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/148.ts
+#EXTINF:-1 tvg-id="nickelodeonteen.fr" tvg-name="NICKELODEON Teen FHD" tvg-logo="" group-title="FRANCE FHD",NICKELODEON Teen FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/78449.ts
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="DISNEY CHANNEL FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/DISNEYCHANNELFHD.png" group-title="FRANCE FHD",DISNEY CHANNEL FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/154.ts
+#EXTINF:-1 tvg-id="disneychannelplus1.fr" tvg-name="DISNEY CHANNEL +1 FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/DISNEYCHANNELplus1.png" group-title="FRANCE FHD",DISNEY CHANNEL +1 FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1721.ts
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="DISNEY JR FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/DISNEYJUNIOR.png" group-title="FRANCE FHD",DISNEY JR FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1646.ts
+#EXTINF:-1 tvg-id="boomerang.fr" tvg-name="BOOMERANG FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/BOOMERANG.png" group-title="FRANCE FHD",BOOMERANG FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/155.ts
+#EXTINF:-1 tvg-id="cartoonnetwork.fr" tvg-name="CARTOON NETWORK FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CARTTONNETWORK.png" group-title="FRANCE FHD",CARTOON NETWORK FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1640.ts
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="CANAL J FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/CANALJ.png" group-title="FRANCE FHD",CANAL J FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1804.ts
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="MANGAS FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/MANGAS.png" group-title="FRANCE FHD",MANGAS FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/153.ts
+#EXTINF:-1 tvg-id="GameOne.fr" tvg-name="GAME ONE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/GAMEONE.png" group-title="FRANCE FHD",GAME ONE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1787.ts
+#EXTINF:-1 tvg-id="jone.fr" tvg-name="J-ONE FHD" tvg-logo="" group-title="FRANCE FHD",J-ONE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/67535.ts
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="TOONAMI FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/TOONAMI.png" group-title="FRANCE FHD",TOONAMI FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/7194.ts
+#EXTINF:-1 tvg-id="ES1.fr" tvg-name="MGG TV FHD" tvg-logo="http://apimg.in/picons/NEW2022/toutlesport.png" group-title="FRANCE FHD",MGG TV FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/30203.ts
+#EXTINF:-1 tvg-id="bsmart.fr" tvg-name="B SMART " tvg-logo="" group-title="FRANCE FHD",B SMART 
+http://tvplay.one:80/live/46532865581595496/1593574628/48808.ts
+#EXTINF:-1 tvg-id="mcm.fr" tvg-name="MCM FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/MCM.png" group-title="FRANCE FHD",MCM FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2325.ts
+#EXTINF:-1 tvg-id="mcmtop.fr" tvg-name="MCM TOP FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/MCMTOP.png" group-title="FRANCE FHD",MCM TOP FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/7622.ts
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="M6 MUSIC FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/M6MUSIC.png" group-title="FRANCE FHD",M6 MUSIC FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/130.ts
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="NRJ HITS FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/NRJHITS.png" group-title="FRANCE FHD",NRJ HITS FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2938.ts
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/MTV.png" group-title="FRANCE FHD",MTV FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/3181.ts
+#EXTINF:-1 tvg-id="mtvhitsfrance.fr" tvg-name="MTV 10s FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/MTVHITS.png" group-title="FRANCE FHD",MTV 10s FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/1642.ts
+#EXTINF:-1 tvg-id="C241.api.telerama.fr" tvg-name="RFM TV FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/RFMTV.png" group-title="FRANCE FHD",RFM TV FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/7621.ts
+#EXTINF:-1 tvg-id="MezzoLive.fr" tvg-name="MEZZO LIVE FHD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEFHD/MEZZOLIVE.png" group-title="FRANCE FHD",MEZZO LIVE FHD
+http://tvplay.one:80/live/46532865581595496/1593574628/2349.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/TF1.png" group-title="FRANCE SD",TF1 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7401.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FRANCE 2 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/FRANCE2.png" group-title="FRANCE SD",FRANCE 2 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7402.ts
+#EXTINF:-1 tvg-id="C80.api.telerama.fr" tvg-name="FRANCE 3 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/FRANCE3.png" group-title="FRANCE SD",FRANCE 3 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7403.ts
+#EXTINF:-1 tvg-id="CanalPlus.fr" tvg-name="CANAL+ SD" tvg-logo="http://atlaspro.to:80/images/17d8d4c1bd9833793b45661ae01c8e9c.png" group-title="FRANCE SD",CANAL+ SD
+http://tvplay.one:80/live/46532865581595496/1593574628/3943.ts
+#EXTINF:-1 tvg-id="france5.fr" tvg-name="FRANCE 5 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/FRANCE5.png" group-title="FRANCE SD",FRANCE 5 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7456.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6 SD" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/m6sd.png" group-title="FRANCE SD",M6 SD
+https://shls-m6-france-prod-dub.shahid.net/out/v1/c8a9f6e000cd4ebaa4d2fc7d18c15988/index_3.m3u8
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/ARTE.png" group-title="FRANCE SD",ARTE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7460.ts
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="C8 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/C8.png" group-title="FRANCE SD",C8 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7477.ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/W9.png" group-title="FRANCE SD",W9 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7461.ts
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/TMC.png" group-title="FRANCE SD",TMC SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7462.ts
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/TFX.png" group-title="FRANCE SD",TFX SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7481.ts
+#EXTINF:-1 tvg-id="nrj12.fr" tvg-name="NRJ 12 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/NRJ12.png" group-title="FRANCE SD",NRJ 12 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7657.ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="TF1 SERIES & FILMS SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/TF1FILMSSERIES.png" group-title="FRANCE SD",TF1 SERIES & FILMS SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7479.ts
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FRANCE 4 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/FRANCE4.png" group-title="FRANCE SD",FRANCE 4 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7404.ts
+#EXTINF:-1 tvg-id="C1402.api.telerama.fr" tvg-name="RMC STORY SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/RMCSTORY.png" group-title="FRANCE SD",RMC STORY SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7484.ts
+#EXTINF:-1 tvg-id="cherie25.fr" tvg-name="CHERIE 25 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CHERIE25.png" group-title="FRANCE SD",CHERIE 25 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7478.ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6TER SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/6TER.png" group-title="FRANCE SD",6TER SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7660.ts
+#EXTINF:-1 tvg-id="EquipeTV.fr" tvg-name="L'EQUIPE SD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/lequipe.png" group-title="FRANCE SD",L'EQUIPE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7658.ts
+#EXTINF:-1 tvg-id="ab1.fr" tvg-name="AB1 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/AB1.png" group-title="FRANCE SD",AB1 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7542.ts
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CSTAR SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CSTAR.png" group-title="FRANCE SD",CSTAR SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7617.ts
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="LCP SD" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/france-sd/lcp.png" group-title="FRANCE SD",LCP SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7651.ts
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="BFM TV SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/BFMTV.png" group-title="FRANCE SD",BFM TV SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7543.ts
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="CNEWS SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CNEWS.png" group-title="FRANCE SD",CNEWS SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7546.ts
+#EXTINF:-1 tvg-id="euronews.fr" tvg-name="EURONEWS SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/EURONEWS.png" group-title="FRANCE SD",EURONEWS SD
+https://rakuten-euronews-2-fr.samsung.wurl.com/manifest/f3bb56a4b2be78cc2f08b492c891bdf8.m3u8%20
+#EXTINF:-1 tvg-id="lci.fr" tvg-name="LCI SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/LCI.png" group-title="FRANCE SD",LCI SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7653.ts
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="FRANCE INFO SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/FRANCEINFO.png" group-title="FRANCE SD",FRANCE INFO SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7656.ts
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FRANCE 24 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/FRANCE24.png" group-title="FRANCE SD",FRANCE 24 SD
+https://d4de59d01af447a498cb0565ad005588.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/viewmedia-7/live_092/HD/playlist.m3u8%20%20
+#EXTINF:-1 tvg-id="" tvg-name="TV5 MONDE INFO SD" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/france-sd/tv5monde.png" group-title="FRANCE SD",TV5 MONDE INFO SD
+http://tvplay.one:80/live/46532865581595496/1593574628/35836.ts
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="BFM BUSINESS SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/BFMBUSSINESS.png" group-title="FRANCE SD",BFM BUSINESS SD
+https://bfmbusinesshds-lh.akamaihd.net/i/BFMBUSINESS_KB@664128/master.m3u8
+#EXTINF:-1 tvg-id="bfmparis.fr" tvg-name="BFM Paris SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/BFMPARIS.png" group-title="FRANCE SD",BFM Paris SD
+https://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_ESYTLS@429747/index_1100_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-id="BFMLyon.fr" tvg-name="BFM LYON SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/BFMLYON.png" group-title="FRANCE SD",BFM LYON SD
+http://tvplay.one:80/live/46532865581595496/1593574628/35826.ts
+#EXTINF:-1 tvg-id="Grand Lille TV" tvg-name="BFM GRAND LILLE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEHD/BFMGRANDLILLE.png" group-title="FRANCE SD",BFM GRAND LILLE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/38757.ts
+#EXTINF:-1 tvg-id="CANAL+GrandEcran.fr" tvg-name="CANAL+ GRAND ECRAN SD" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/canalplusgrand.png" group-title="FRANCE SD",CANAL+ GRAND ECRAN SD
+http://tvplay.one:80/live/46532865581595496/1593574628/93117.ts
+#EXTINF:-1 tvg-id="CANALplusCINEMA.fr" tvg-name="CANAL+ CINEMA SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CANALplusCINEMA.png" group-title="FRANCE SD",CANAL+ CINEMA SD
+http://tvplay.one:80/live/46532865581595496/1593574628/3942.ts
+#EXTINF:-1 tvg-id="CanalPlusSeries.fr" tvg-name="CANAL+ SERIES SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CANALplusSERIES.png" group-title="FRANCE SD",CANAL+ SERIES SD
+http://tvplay.one:80/live/46532865581595496/1593574628/3940.ts
+#EXTINF:-1 tvg-id="Canal+Kids.fr" tvg-name="CANAL+ KIDS SD " tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/canalpluskids1.png" group-title="FRANCE SD",CANAL+ KIDS SD 
+http://tvplay.one:80/live/46532865581595496/1593574628/3939.ts
+#EXTINF:-1 tvg-id="CanalPlusDocs.fr" tvg-name="CANAL+ DOCS SD" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/canalplusdocs.png" group-title="FRANCE SD",CANAL+ DOCS SD
+http://tvplay.one:80/live/46532865581595496/1593574628/93839.ts
+#EXTINF:-1 tvg-id="CinePlusPremier.fr" tvg-name="CINE+ PREMIER SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CINEplusPREMIER.png" group-title="FRANCE SD",CINE+ PREMIER SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7636.ts
+#EXTINF:-1 tvg-id="CinePlusFrisson.fr" tvg-name="CINE+ FRISSON SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CINEplusFRISSON.png" group-title="FRANCE SD",CINE+ FRISSON SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7669.ts
+#EXTINF:-1 tvg-id="cineplusemotion.fr" tvg-name="CINE+ EMOTION SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CINEplusEMOTION.png" group-title="FRANCE SD",CINE+ EMOTION SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7637.ts
+#EXTINF:-1 tvg-id="CinePlusFamiz.fr" tvg-name="CINE+ FAMIZ SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CINEplusFAMIZ.png" group-title="FRANCE SD",CINE+ FAMIZ SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7667.ts
+#EXTINF:-1 tvg-id="CinePlusClassic.fr" tvg-name="CINE+ CLASSIC SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CINEplusCLASSIC.png" group-title="FRANCE SD",CINE+ CLASSIC SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7668.ts
+#EXTINF:-1 tvg-id="C285.api.telerama.fr" tvg-name="CINE+ CLUB SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CINEplusCLUB.png" group-title="FRANCE SD",CINE+ CLUB SD
+http://tvplay.one:80/live/46532865581595496/1593574628/13528.ts
+#EXTINF:-1 tvg-id="action.fr" tvg-name="ACTION SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/ACTION.png" group-title="FRANCE SD",ACTION SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7465.ts
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="PARAMOUNT SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/PARAMOUNTCHANNEL.png" group-title="FRANCE SD",PARAMOUNT SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7671.ts
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="TCM CINEMA SD" tvg-logo="" group-title="FRANCE SD",TCM CINEMA SD
+http://tvplay.one:80/live/46532865581595496/1593574628/88025.ts
+#EXTINF:-1 tvg-id="ocsgeants.fr" tvg-name="OCS GEANT SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/OCSGEANTS.png" group-title="FRANCE SD",OCS GEANT SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7548.ts
+#EXTINF:-1 tvg-id="ocschoc.fr" tvg-name="OCS PULP SD" tvg-logo="http://128.199.43.91/pubs/2022/ocspulp.png" group-title="FRANCE SD",OCS PULP SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7870.ts
+#EXTINF:-1 tvg-id="OCSMax.fr" tvg-name="OCS MAX SD" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/france-sd/ocsmax.png" group-title="FRANCE SD",OCS MAX SD
+http://tvplay.one:80/live/46532865581595496/1593574628/45300.ts
+#EXTINF:-1 tvg-id="polarplus.fr" tvg-name="POLAR+ SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/POLARplus.png" group-title="FRANCE SD",POLAR+ SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7545.ts
+#EXTINF:-1 tvg-id="C225.api.telerama.fr" tvg-name="TV BREIZH SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/TVBREIZH.png" group-title="FRANCE SD",TV BREIZH SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7650.ts
+#EXTINF:-1 tvg-id="C479.api.telerama.fr" tvg-name="SYFY SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/SYFY.png" group-title="FRANCE SD",SYFY SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7480.ts
+#EXTINF:-1 tvg-id="13emerue.fr" tvg-name="13EME RUE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/13EMERUE.png" group-title="FRANCE SD",13EME RUE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7659.ts
+#EXTINF:-1 tvg-id="serieclub.fr" tvg-name="SERIE CLUB SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/SERIECLUB.png" group-title="FRANCE SD",SERIE CLUB SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7483.ts
+#EXTINF:-1 tvg-id="WarnerTV.fr" tvg-name="WARNER TV SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/WARNERTV.png" group-title="FRANCE SD",WARNER TV SD
+http://tvplay.one:80/live/46532865581595496/1593574628/13052.ts
+#EXTINF:-1 tvg-id="teva.fr" tvg-name="TEVA SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/TEVA.png" group-title="FRANCE SD",TEVA SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7475.ts
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/RTL9.png" group-title="FRANCE SD",RTL9 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7616.ts
+#EXTINF:-1 tvg-id="parispremiere.fr" tvg-name="PARIS PREMIERE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/PARISPREMIERE.png" group-title="FRANCE SD",PARIS PREMIERE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7474.ts
+#EXTINF:-1 tvg-id="Comédie+.fr" tvg-name="COMEDIE+ SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/COMEDIEplus.png" group-title="FRANCE SD",COMEDIE+ SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7649.ts
+#EXTINF:-1 tvg-id="bet.fr" tvg-name="BET SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/BET.png" group-title="FRANCE SD",BET SD
+http://tvplay.one:80/live/46532865581595496/1593574628/10813.ts
+#EXTINF:-1 tvg-id="eentertainment.fr" tvg-name="E! SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/EENTERTAINEMENT.png" group-title="FRANCE SD",E! SD
+http://tvplay.one:80/live/46532865581595496/1593574628/8088.ts
+#EXTINF:-1 tvg-id="infosportplus.fr" tvg-name="INFOSPORT+ SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/INFOSPORT.png" group-title="FRANCE SD",INFOSPORT+ SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7541.ts
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="EUROSPORT 1 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/EUROSPORT1.png" group-title="FRANCE SD",EUROSPORT 1 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7701.ts
+#EXTINF:-1 tvg-id="Eurosport2.fr" tvg-name="EUROSPORT 2 SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/EUROSPORT2.png" group-title="FRANCE SD",EUROSPORT 2 SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7863.ts
+#EXTINF:-1 tvg-id="sportenfrance.fr" tvg-name="SPORT EN FRANCE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-SPORTHD/SPORTENFRANCE.png" group-title="FRANCE SD",SPORT EN FRANCE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/67815.ts
+#EXTINF:-1 tvg-id="automotolachaine.fr" tvg-name="AUTOMOTO LA CHAINE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/AUTOMOTO.png" group-title="FRANCE SD",AUTOMOTO LA CHAINE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7466.ts
+#EXTINF:-1 tvg-id="golfplus.fr" tvg-name="GOLF+  SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/GOLFplus.png" group-title="FRANCE SD",GOLF+  SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7862.ts
+#EXTINF:-1 tvg-id="equidia.fr" tvg-name="EQUIDIA SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/EQUIDIALIVE.png" group-title="FRANCE SD",EQUIDIA SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7861.ts
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="SEASONS SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/SEASONS.png" group-title="FRANCE SD",SEASONS SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7469.ts
+#EXTINF:-1 tvg-id="C38.api.telerama.fr" tvg-name="CHASSE ET PECHE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CHASSEEPECHE.png" group-title="FRANCE SD",CHASSE ET PECHE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7482.ts
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="ANIMAUX SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/ANIMAUX.png" group-title="FRANCE SD",ANIMAUX SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7464.ts
+#EXTINF:-1 tvg-id="scienceandvie.fr" tvg-name="SCIENCES & VIE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/SCIENCESETVIE.png" group-title="FRANCE SD",SCIENCES & VIE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7470.ts
+#EXTINF:-1 tvg-id="crimedistrict.fr" tvg-name="CRIME DISTRICT SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CRIMEDISTRICT.png" group-title="FRANCE SD",CRIME DISTRICT SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7487.ts
+#EXTINF:-1 tvg-id="PlanetePlus.fr" tvg-name="PLANETE+ SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/PLANETplus.png" group-title="FRANCE SD",PLANETE+ SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7708.ts
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="PLANETE+ CRIME SD" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/planetecrime.png" group-title="FRANCE SD",PLANETE+ CRIME SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7707.ts
+#EXTINF:-1 tvg-id="PlaneteAction.fr" tvg-name="PLANETE+ AVENTURE SD" tvg-logo="http://apimg.in/pubs/december2020/30-10-21/planeteaventure.png" group-title="FRANCE SD",PLANETE+ AVENTURE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7710.ts
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="RMC DECOUVERTE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/RMCDECOUVERTE.png" group-title="FRANCE SD",RMC DECOUVERTE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7869.ts
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="USHUAIA SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/USHUAIA.png" group-title="FRANCE SD",USHUAIA SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7868.ts
+#EXTINF:-1 tvg-id="discoverychannel.fr" tvg-name="DISCOVERY SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/DISCOVERYCHANNEL.png" group-title="FRANCE SD",DISCOVERY SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7712.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="DISCOVERY SCIENCE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/DISCOVERYSCIENCE.png" group-title="FRANCE SD",DISCOVERY SCIENCE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7711.ts
+#EXTINF:-1 tvg-id="discoveryinvestigation.fr" tvg-name="DISCOVERY INVESTIGATION SD" tvg-logo="http://apimg.in/picons/PICONS-BOUUQET-PORTUGAL/id.png" group-title="FRANCE SD",DISCOVERY INVESTIGATION SD
+http://tvplay.one:80/live/46532865581595496/1593574628/13040.ts
+#EXTINF:-1 tvg-id="NatGeoWild.fr" tvg-name="NATIONAL GEO SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/NATGEO.png" group-title="FRANCE SD",NATIONAL GEO SD
+http://tvplay.one:80/live/46532865581595496/1593574628/9104.ts
+#EXTINF:-1 tvg-id="NationalGeographic.fr" tvg-name="NAT GEO WILD SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/NATGEOWILD.png" group-title="FRANCE SD",NAT GEO WILD SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7714.ts
+#EXTINF:-1 tvg-id="toutehistoire.fr" tvg-name="TOUTE LHISTOIRE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/TOUTELHISTOIRE.png" group-title="FRANCE SD",TOUTE LHISTOIRE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7551.ts
+#EXTINF:-1 tvg-id="histoire.fr" tvg-name="HISTOIRE TV SD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/histoiretv.png" group-title="FRANCE SD",HISTOIRE TV SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7866.ts
+#EXTINF:-1 tvg-id="mangas.fr" tvg-name="MANGA SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/MANGAS.png" group-title="FRANCE SD",MANGA SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7619.ts
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="TELETOON+ SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/TELETOONplus.png" group-title="FRANCE SD",TELETOON+ SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7632.ts
+#EXTINF:-1 tvg-id="" tvg-name="DREAMWORKS SD " tvg-logo="" group-title="FRANCE SD",DREAMWORKS SD 
+http://tvplay.one:80/live/46532865581595496/1593574628/104312.ts
+#EXTINF:-1 tvg-id="Cartoon.Network.fr" tvg-name="CARTOON NETWORK SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CARTTONNETWORK.png" group-title="FRANCE SD",CARTOON NETWORK SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7634.ts
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="BOOMERANG SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/BOOMERANG.png" group-title="FRANCE SD",BOOMERANG SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7635.ts
+#EXTINF:-1 tvg-id="boing.fr" tvg-name="CARTOONITO SD" tvg-logo="http://128.199.43.91/pubs/2022/cartonito.png" group-title="FRANCE SD",CARTOONITO SD
+http://tvplay.one:80/live/46532865581595496/1593574628/8087.ts
+#EXTINF:-1 tvg-id="disneychannel.fr" tvg-name="DISNEY CHANNEL SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/DISNEYCHANNEL.png" group-title="FRANCE SD",DISNEY CHANNEL SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7672.ts
+#EXTINF:-1 tvg-id="Disney.Junior.fr" tvg-name="DISNEY JR SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/DISNEYJUNIOR.png" group-title="FRANCE SD",DISNEY JR SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7872.ts
+#EXTINF:-1 tvg-id="piwi.fr" tvg-name="PIWI SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/PIWIplus.png" group-title="FRANCE SD",PIWI SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7676.ts
+#EXTINF:-1 tvg-id="gulli.fr" tvg-name="GULLI SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/GULLI.png" group-title="FRANCE SD",GULLI SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7677.ts
+#EXTINF:-1 tvg-id="gameone.fr" tvg-name="GAME ONE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/GAMEONE.png" group-title="FRANCE SD",GAME ONE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7715.ts
+#EXTINF:-1 tvg-id="jone.fr" tvg-name="J-ONE SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/JONE.png" group-title="FRANCE SD",J-ONE SD
+http://tvplay.one:80/live/46532865581595496/1593574628/22938.ts
+#EXTINF:-1 tvg-id="tiji.fr" tvg-name="TIJI SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/TIJI.png" group-title="FRANCE SD",TIJI SD
+https://shls-tiji-tv-prod-dub.shahid.net/out/v1/98f46736bd8c4404b67e4b7a38cc8976/index.m3u8
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="TOONAMI SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/TOONAMI.png" group-title="FRANCE SD",TOONAMI SD
+http://tvplay.one:80/live/46532865581595496/1593574628/22939.ts
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="CANAL J SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/CANALJ.png" group-title="FRANCE SD",CANAL J SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7699.ts
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="NICKELODEON SD" tvg-logo="http://apimg.in/picons/NEW2020/FRANCE-PICONS/france-sd/nickldone.png" group-title="FRANCE SD",NICKELODEON SD
+http://tvplay.one:80/live/46532865581595496/1593574628/45303.ts
+#EXTINF:-1 tvg-id="NickJr.be" tvg-name="NICKELODEON jr SD" tvg-logo="" group-title="FRANCE SD",NICKELODEON jr SD
+http://tvplay.one:80/live/46532865581595496/1593574628/45304.ts
+#EXTINF:-1 tvg-id="TV5.Europe.fr" tvg-name="TV5 MONDE FBS SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/TV5MONDE.png" group-title="FRANCE SD",TV5 MONDE FBS SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7463.ts
+#EXTINF:-1 tvg-id="Kto.fr" tvg-name="KTO SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/KTO.png" group-title="FRANCE SD",KTO SD
+http://tvplay.one:80/live/46532865581595496/1593574628/13073.ts
+#EXTINF:-1 tvg-id="m6music.fr" tvg-name="M6 MUSIC SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/M6MUSIC.png" group-title="FRANCE SD",M6 MUSIC SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7702.ts
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/MCM.png" group-title="FRANCE SD",MCM SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7703.ts
+#EXTINF:-1 tvg-id="nrjhits.fr" tvg-name="NRJ HITS SD" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCESD/NRJHITS.png" group-title="FRANCE SD",NRJ HITS SD
+http://tvplay.one:80/live/46532865581595496/1593574628/7704.ts
+#EXTINF:-1 tvg-id="rfmtv.fr" tvg-name="RFM TV SD" tvg-logo="" group-title="FRANCE SD",RFM TV SD
+http://tvplay.one:80/live/46532865581595496/1593574628/62404.ts
+#EXTINF:-1 tvg-id="" tvg-name="CGTN FRANÇAIS " tvg-logo="" group-title="FRANCE SD",CGTN FRANÇAIS 
+http://tvplay.one:80/live/46532865581595496/1593574628/68004.ts
+#EXTINF:-1 tvg-id="mtv.fr" tvg-name="MTV SD" tvg-logo="" group-title="FRANCE SD",MTV SD
+http://tvplay.one:80/live/46532865581595496/1593574628/95499.ts
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR | TF1 [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/TF1.png" group-title="FRANCE H265",FR | TF1 [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36072.ts
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR | FRANCE 2 FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/FRANCE2.png" group-title="FRANCE H265",FR | FRANCE 2 FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36074.ts
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR | FRANCE 3 FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/FRANCE3.png" group-title="FRANCE H265",FR | FRANCE 3 FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36075.ts
+#EXTINF:-1 tvg-id="CANALplus.fr" tvg-name="FR | CANAL+ FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CANALplus.png" group-title="FRANCE H265",FR | CANAL+ FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36076.ts
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR | FRANCE 5 FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/FRANCE5.png" group-title="FRANCE H265",FR | FRANCE 5 FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36077.ts
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR | M6 FHD [H265]" tvg-logo="http://apimg.in/pubs/december2020/2-27-2021/m6h265.png" group-title="FRANCE H265",FR | M6 FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36078.ts
+#EXTINF:-1 tvg-id="arte.fr" tvg-name="FR | ARTE FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/ARTE.png" group-title="FRANCE H265",FR | ARTE FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36079.ts
+#EXTINF:-1 tvg-id="c8.fr" tvg-name="FR | C8 FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/C8.png" group-title="FRANCE H265",FR | C8 FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36080.ts
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR | W9 FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/W9.png" group-title="FRANCE H265",FR | W9 FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36081.ts
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="FR | TMC FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/TMC.png" group-title="FRANCE H265",FR | TMC FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36082.ts
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="FR | TFX FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/TFX.png" group-title="FRANCE H265",FR | TFX FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36083.ts
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="FR | NRJ12 FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/NRJ12.png" group-title="FRANCE H265",FR | NRJ12 FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36084.ts
+#EXTINF:-1 tvg-id="LCP.fr" tvg-name="FR | LCP FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/LCP.png" group-title="FRANCE H265",FR | LCP FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36085.ts
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR | FRANCE 4 FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/FRANCE4.png" group-title="FRANCE H265",FR | FRANCE 4 FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36086.ts
+#EXTINF:-1 tvg-id="bfmtv.fr" tvg-name="FR | BFM TV FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/BFMTV.png" group-title="FRANCE H265",FR | BFM TV FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36087.ts
+#EXTINF:-1 tvg-id="cnews.fr" tvg-name="FR | CNEWS FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CNEWS.png" group-title="FRANCE H265",FR | CNEWS FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36089.ts
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="FR | CSTAR FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CSTAR.png" group-title="FRANCE H265",FR | CSTAR FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36090.ts
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="FR | GULLI FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/GULLI.png" group-title="FRANCE H265",FR | GULLI FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36091.ts
+#EXTINF:-1 tvg-id="TF1SeriesFilms.fr" tvg-name="FR | TF1 Series & Films [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/TF1FILMSETSERIES.png" group-title="FRANCE H265",FR | TF1 Series & Films [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36092.ts
+#EXTINF:-1 tvg-id="LEquipe21.fr" tvg-name="FR | L'EQUIPE [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/LEQUIPE.png" group-title="FRANCE H265",FR | L'EQUIPE [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36093.ts
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR | 6TER FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/6TER.png" group-title="FRANCE H265",FR | 6TER FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36094.ts
+#EXTINF:-1 tvg-id="RMC.Story.fr" tvg-name="FR | RMC STORY FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/RMCSTORY.png" group-title="FRANCE H265",FR | RMC STORY FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36095.ts
+#EXTINF:-1 tvg-id="rmcdecouverte.fr" tvg-name="FR | RMC DECOUVERTE FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/RMCDECOUVERTE.png" group-title="FRANCE H265",FR | RMC DECOUVERTE FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36096.ts
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR | CHERIE 25 FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CHERIE25.png" group-title="FRANCE H265",FR | CHERIE 25 FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36097.ts
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR | LCI FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/LCI.png" group-title="FRANCE H265",FR | LCI FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36098.ts
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR | FRANCE 24 FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/FRANCE24.png" group-title="FRANCE H265",FR | FRANCE 24 FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36099.ts
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="FR | EURONEWS FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/EURONEWS.png" group-title="FRANCE H265",FR | EURONEWS FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36100.ts
+#EXTINF:-1 tvg-id="i24news.fr" tvg-name="FR | I24 NEWS FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/I24NEWS.png" group-title="FRANCE H265",FR | I24 NEWS FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36101.ts
+#EXTINF:-1 tvg-id="Franceinfo.fr" tvg-name="FR | FRANCE INFO FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/FRANCEINFO.png" group-title="FRANCE H265",FR | FRANCE INFO FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36102.ts
+#EXTINF:-1 tvg-id="Canal+Docs.fr" tvg-name="FR | CANAL+DOCS [H265] " tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/canalplusdocs.png" group-title="FRANCE H265",FR | CANAL+DOCS [H265] 
+http://tvplay.one:80/live/46532865581595496/1593574628/97219.ts
+#EXTINF:-1 tvg-id="Canal+Kids.fr" tvg-name="FR | CANAL+ KIDS [H265]" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/canalpluskids1.png" group-title="FRANCE H265",FR | CANAL+ KIDS [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36105.ts
+#EXTINF:-1 tvg-id="canalplusseries.fr" tvg-name="FR | CANAL+ SERIES FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CANALplusSERIES.png" group-title="FRANCE H265",FR | CANAL+ SERIES FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36106.ts
+#EXTINF:-1 tvg-id="CanalPlusGrandEcran.fr" tvg-name="FR | CANAL+GRAND ÉCRAN [H265] " tvg-logo="http://apimg.in/pubs/december2020/30-10-21/canalplusgrand.png" group-title="FRANCE H265",FR | CANAL+GRAND ÉCRAN [H265] 
+http://tvplay.one:80/live/46532865581595496/1593574628/97218.ts
+#EXTINF:-1 tvg-id="canalpluscinema.fr" tvg-name="FR | CANAL+ CINEMA FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CANALplusCINEMA.png" group-title="FRANCE H265",FR | CANAL+ CINEMA FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36108.ts
+#EXTINF:-1 tvg-id="cinepluspremier.fr" tvg-name="FR | CINE+ PREMIER FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CINEplusPREMIER.png" group-title="FRANCE H265",FR | CINE+ PREMIER FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36109.ts
+#EXTINF:-1 tvg-id="CinecinemaFrisson.fr" tvg-name="FR | CINE+ FRISSON FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CINEplusFRISSON.png" group-title="FRANCE H265",FR | CINE+ FRISSON FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36110.ts
+#EXTINF:-1 tvg-id="CinecinemaEmotion.fr" tvg-name="FR | CINE+ EMOTION FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CINEplusEMOTION.png" group-title="FRANCE H265",FR | CINE+ EMOTION FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36111.ts
+#EXTINF:-1 tvg-id="CinecinemaClassic.fr" tvg-name="FR | CINE+ CLASSIC FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CINEplusCLASSIC.png" group-title="FRANCE H265",FR | CINE+ CLASSIC FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36112.ts
+#EXTINF:-1 tvg-id="CinecinemaFamiz.fr" tvg-name="FR | CINE+ FAMIZ FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CINEplusFAMIZ.png" group-title="FRANCE H265",FR | CINE+ FAMIZ FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36113.ts
+#EXTINF:-1 tvg-id="CinePlusClub.fr" tvg-name="FR | CINE+ CLUB FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/CINEplusCLUB.png" group-title="FRANCE H265",FR | CINE+ CLUB FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36114.ts
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR | ACTION [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/ACTION.png" group-title="FRANCE H265",FR | ACTION [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36123.ts
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR | PARAMOUNT CHANNEL [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/PARAMOUNTCHANNEL.png" group-title="FRANCE H265",FR | PARAMOUNT CHANNEL [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36121.ts
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="FR | TCM CINEMA FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/TCMCINEMA.png" group-title="FRANCE H265",FR | TCM CINEMA FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36124.ts
+#EXTINF:-1 tvg-id="OrangeCineGeants.fr" tvg-name="FR | OCS GÉANTS FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/OCSGEANTS.png" group-title="FRANCE H265",FR | OCS GÉANTS FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36117.ts
+#EXTINF:-1 tvg-id="OrangeCinechoc.fr" tvg-name="FR | OCS PULP [H265]" tvg-logo="http://128.199.43.91/pubs/2022/ocspulp.png" group-title="FRANCE H265",FR | OCS PULP [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36115.ts
+#EXTINF:-1 tvg-id="OrangeCinemax.fr" tvg-name="FR | OCS MAX FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/OCSMAX.png" group-title="FRANCE H265",FR | OCS MAX FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36118.ts
+#EXTINF:-1 tvg-id="Warnertv.fr" tvg-name="FR | WARNER TV [H265] " tvg-logo="" group-title="FRANCE H265",FR | WARNER TV [H265] 
+http://tvplay.one:80/live/46532865581595496/1593574628/104549.ts
+#EXTINF:-1 tvg-id="C2.api.telerama.fr" tvg-name="FR | 13EME RUE FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/13EMERUE.png" group-title="FRANCE H265",FR | 13EME RUE FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36103.ts
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR | SYFY FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/SYFY.png" group-title="FRANCE H265",FR | SYFY FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36125.ts
+#EXTINF:-1 tvg-id="ComediePlus.fr" tvg-name="FR | COMEDIE+ FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/COMEDIEplus.png" group-title="FRANCE H265",FR | COMEDIE+ FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36126.ts
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="FR | SERIECLUB FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/SERIECLUB.png" group-title="FRANCE H265",FR | SERIECLUB FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36127.ts
+#EXTINF:-1 tvg-id="13Rue.fr" tvg-name="FR | PARIS PREMIERE FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/PARISPREMIERE.png" group-title="FRANCE H265",FR | PARIS PREMIERE FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36128.ts
+#EXTINF:-1 tvg-id="rtl9.fr" tvg-name="FR | RTL9 FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/RTL9.png" group-title="FRANCE H265",FR | RTL9 FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36129.ts
+#EXTINF:-1 tvg-id="Teva.fr" tvg-name="FR | TEVA FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/franceh.265/TEVAh.265.png" group-title="FRANCE H265",FR | TEVA FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36161.ts
+#EXTINF:-1 tvg-id="TvBreizh.fr" tvg-name="FR | TV BREIZH FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/TVBREIZH.png" group-title="FRANCE H265",FR | TV BREIZH FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36130.ts
+#EXTINF:-1 tvg-id="InfosportPlus.fr" tvg-name="FR | INFOSPORT+ FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/INFOSPORTplus.png" group-title="FRANCE H265",FR | INFOSPORT+ FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36132.ts
+#EXTINF:-1 tvg-id="planeteplus.fr" tvg-name="FR | PLANETE+ FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | PLANETE+ FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36136.ts
+#EXTINF:-1 tvg-id="planeteadventureexperience.fr" tvg-name="FR | PLANETE+ AVENTURE [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/franceh.265/PLANETAEh.265.png" group-title="FRANCE H265",FR | PLANETE+ AVENTURE [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36137.ts
+#EXTINF:-1 tvg-id="PLANETEJustice.fr" tvg-name="FR | PLANETE+ CRIME FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/franceh.265/PLANETCIh.265.png" group-title="FRANCE H265",FR | PLANETE+ CRIME FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36138.ts
+#EXTINF:-1 tvg-id="natgeo.fr" tvg-name="FR | NATIONAL GEO FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/NATGEO.png" group-title="FRANCE H265",FR | NATIONAL GEO FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36139.ts
+#EXTINF:-1 tvg-id="NatGeoWildFrance" tvg-name="FR | NATIONAL GEO WILD FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/NATGEOWILD.png" group-title="FRANCE H265",FR | NATIONAL GEO WILD FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36140.ts
+#EXTINF:-1 tvg-id="Discovery.fr" tvg-name="FR | DISCOVERY CH FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | DISCOVERY CH FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36141.ts
+#EXTINF:-1 tvg-id="DiscoveryScience.fr" tvg-name="FR | DISCOVERY SCIENCE FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | DISCOVERY SCIENCE FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36142.ts
+#EXTINF:-1 tvg-id="DiscoveryInvestigation.fr" tvg-name="FR | INVESTIGATION DISCOVERY [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/franceh.265/DISCOVERYINVESTIGATIONh.265.png" group-title="FRANCE H265",FR | INVESTIGATION DISCOVERY [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36143.ts
+#EXTINF:-1 tvg-id="Eurosport1.fr" tvg-name="FR | HISTOIRE FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | HISTOIRE FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36145.ts
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="FR | TOUTE L'HISTOIRE FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | TOUTE L'HISTOIRE FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36146.ts
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="FR | SCIENCE & VIE FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | SCIENCE & VIE FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36147.ts
+#EXTINF:-1 tvg-id="seasons.fr" tvg-name="FR | SEASONS FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | SEASONS FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36148.ts
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="FR | CHASSE & PÊCHE FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | CHASSE & PÊCHE FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36149.ts
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="FR | ANIMAUX FHD [H265]" tvg-logo="http://apimg.in/picons/PICONS-BOUQUET-FRANCEH265/franceh.265/ANIMAUXh.265.png" group-title="FRANCE H265",FR | ANIMAUX FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36150.ts
+#EXTINF:-1 tvg-id="ushuaiatv.fr" tvg-name="FR | USHUAÏA [H265]" tvg-logo="" group-title="FRANCE H265",FR | USHUAÏA [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36151.ts
+#EXTINF:-1 tvg-id="toonami.fr" tvg-name="FR | TOONAMI FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | TOONAMI FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36153.ts
+#EXTINF:-1 tvg-id="DisneyJunior.fr" tvg-name="FR | DISNEY JUNIOR FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | DISNEY JUNIOR FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36154.ts
+#EXTINF:-1 tvg-id="canalj.fr" tvg-name="FR | CANAL J FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | CANAL J FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36155.ts
+#EXTINF:-1 tvg-id="PiwiPlus.fr" tvg-name="FR | PIWI+ FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | PIWI+ FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36156.ts
+#EXTINF:-1 tvg-id="teletoonplus.fr" tvg-name="FR | TELETOON+ FHD [H265]" tvg-logo="" group-title="FRANCE H265",FR | TELETOON+ FHD [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36158.ts
+#EXTINF:-1 tvg-id="C36.api.telerama.fr" tvg-name="FR | CARTOON NETWORK [H265] " tvg-logo="" group-title="FRANCE H265",FR | CARTOON NETWORK [H265] 
+http://tvplay.one:80/live/46532865581595496/1593574628/104550.ts
+#EXTINF:-1 tvg-id="Game.One.fr" tvg-name="FR | GAMEONE [H265]" tvg-logo="" group-title="FRANCE H265",FR | GAMEONE [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36160.ts
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="FR | BOOMERANG [H265]" tvg-logo="" group-title="FRANCE H265",FR | BOOMERANG [H265]
+http://tvplay.one:80/live/46532865581595496/1593574628/36163.ts
+#EXTINF:-1 tvg-id="CanalPlusSport.fr" tvg-name="CANAL+ SPORT HD" tvg-logo="http://apimg.in/pubs/december2020/23-07-2021/canalplussport.png" group-title="SPORT HD",CANAL+ SPORT HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7804.ts
+#EXTINF:-1 tvg-id="CanalPlusSport360.fr" tvg-name="CANAL+ SPORT360 HD" tvg-logo="http://128.199.43.91/pubs/2022/canalsport360.png" group-title="SPORT HD",CANAL+ SPORT360 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7806.ts
+#EXTINF:-1 tvg-id="C+FOOT.fr" tvg-name="CANAL+ FOOT HD" tvg-logo="http://128.199.43.91/pubs/2022/canalfoot.png" group-title="SPORT HD",CANAL+ FOOT HD
+http://tvplay.one:80/live/46532865581595496/1593574628/99364.ts
+#EXTINF:-1 tvg-id="rmcsport1.fr" tvg-name="RMC SPORT 1 HD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/rmcsport.png" group-title="SPORT HD",RMC SPORT 1 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/15817.ts
+#EXTINF:-1 tvg-id="rmcsport2.fr" tvg-name="RMC SPORT 2 HD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/rmcsport.png" group-title="SPORT HD",RMC SPORT 2 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/15818.ts
+#EXTINF:-1 tvg-id="beINSPORTS1.fr" tvg-name="FR | BEIN SPORT 1 HD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT HD",FR | BEIN SPORT 1 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7845.ts
+#EXTINF:-1 tvg-id="beINSPORTS2.fr" tvg-name="FR | BEIN SPORT 2 HD " tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT HD",FR | BEIN SPORT 2 HD 
+http://tvplay.one:80/live/46532865581595496/1593574628/7846.ts
+#EXTINF:-1 tvg-id="beinsports3.fr" tvg-name="FR | BEIN SPORT 3 HD" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bsfr.png" group-title="SPORT HD",FR | BEIN SPORT 3 HD
+http://tvplay.one:80/live/46532865581595496/1593574628/7847.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX4.fr" tvg-name="FR | BEIN SPORT MAX 4" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bsmax.png" group-title="SPORT HD",FR | BEIN SPORT MAX 4
+http://tvplay.one:80/live/46532865581595496/1593574628/592.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX5.fr" tvg-name="FR | BEIN SPORT MAX 5" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT HD",FR | BEIN SPORT MAX 5
+http://tvplay.one:80/live/46532865581595496/1593574628/593.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX6.fr" tvg-name="FR | BEIN SPORT MAX 6" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bsmax.png" group-title="SPORT HD",FR | BEIN SPORT MAX 6
+http://tvplay.one:80/live/46532865581595496/1593574628/594.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX7.fr" tvg-name="FR | BEIN SPORT MAX 7" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bsmax.png" group-title="SPORT HD",FR | BEIN SPORT MAX 7
+http://tvplay.one:80/live/46532865581595496/1593574628/2201.ts
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.FR.bein" tvg-name="FR | BEIN SPORT MAX 8" tvg-logo="http://atlaspro.to:80/images/c734986873c78fac10c640fa5a28f658.png" group-title="SPORT HD",FR | BEIN SPORT MAX 8
+http://tvplay.one:80/live/46532865581595496/1593574628/2202.ts
+#EXTINF:-1 tvg-id="beINSPORTSMAX9.fr" tvg-name="FR | BEIN SPORT MAX 9" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bsmax.png" group-title="SPORT HD",FR | BEIN SPORT MAX 9
+http://tvplay.one:80/live/46532865581595496/1593574628/2203.ts
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.FR.bein" tvg-name="FR | BEIN SPORT MAX 10" tvg-logo="http://apimg.in/pubs/december2020/12-20-2020/bsmax.png" group-title="SPORT HD",FR | BEIN SPORT MAX 10
+http://tvplay.one:80/live/46532865581595496/1593574628/2204.ts
